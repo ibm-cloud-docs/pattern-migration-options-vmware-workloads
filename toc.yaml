@@ -20,10 +20,6 @@ toc:
       topics:
       - overview.md
   - navgroup:
-      id: architecture
-      topics:
-      - reference-architecture-pattern-name.md
-  - navgroup:
       id: plan
       topics:
       - topicgroup:

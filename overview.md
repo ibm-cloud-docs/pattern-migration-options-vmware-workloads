@@ -17,22 +17,23 @@ keywords:
 
 
 
-This pattern is intended to:
-* Accelerate and simplify solution design by providing a standard IBM Cloud deployment architecture reference following the IBM Architecture Framework.
-* Provide a prescriptive, end-2-end enterprise-class solution design, with diagrams, component architecture decisions along with rationale for cloud component selection to meet enterprise requirements.
-* Ensure requirements can be met from a performance, system availability and security perspective.
+For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting mission or business critical production distributed (x86-64) workloads in on-premises or co-located Data Centre facilities.
 
+VMware has 44.8% market share in virtualization platform technologies, per Statista and 79% of Enterprise across globe runs VMware per IDC.
 
+Business challenges are leading clients to re-evaluate the VMware (SDDC)platform:
 
+-   Licensing cost increases for VMware virtualization
+-   High operational costs to maintain and grow on-premises or colocation datacenter facilities
+-   Deliver the platform availability, resiliency, performance and scaling business requirements
+-   Slow innovation and deployment of new modernized (cloud native) applications or services.
+-   Costly and slow implementation of Cloud First, Move to Cloud strategies or datacentre exit mandates.
 
+This whitepaper proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions enabling businesses to access the following benefits:
 
-Following the Architecture Framework, the `<Pattern Name>` covers design considerations and architecture decisions for the following aspects and domains:
-
-- Compute: Virtual Servers
-- Storage: Primary Storage, Backup Storage
-- Networking: Enterprise Connectivity, Segmentation and Isolation, Cloud Native Connectivity, Load Balancing, DNS
-- Security: Data Security, Identity and Access Management, Application Security, Infrastructure and Endpoint Security
-- Resiliency: High Availability, Backup and Restore
-- Service Management: Monitoring, Logging, Auditing, Alerting
-
-The Architecture Framework provides a consistent approach to design cloud solutions by addressing requirements across a set of "aspects" and "domains", which are technology-agnostic architectural areas that need to be considered for any enterprise solution. For more details, see [Introduction to the Architecture Framework](/docs/architecture-framework).
+-   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.) enabling optimized compute utilization and scale the IT requirements.
+-   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription.
+-   Opportunity to move VMware services (exit VMware skill risk) to IBM Cloud through VCFaaS (including DRaaS).
+-   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of mission and business critical workloads.
+-   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM WatsonX services (GenAI (encoder / decoder / LLMs) and Machine Learning) to drive innovation into business processes.
+-   Optimize Distributed Workload – in move to IBM Cloud there is further opportunity to optimize the x86-64 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM.

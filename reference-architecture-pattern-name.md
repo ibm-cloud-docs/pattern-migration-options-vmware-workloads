@@ -18,36 +18,8 @@ authors:
 
 version: 1.0
 
-# Use if the reference architecture has deployable code.
-# Value is the URL to land the user in the IBM Cloud catalog details page for the deployable architecture.
-# See https://test.cloud.ibm.com/docs/get-coding?topic=get-coding-deploy-button
-deployment-url:
 
-docs: https://cloud.ibm.com/docs/pattern-sap-on-powervs
-
-content-type: reference-architecture
-
----
-
-{{site.data.keyword.attribute-definition-list}}
-
-
-
-# SAP on VPC 
-{: #sap-on-vpc}
-{: toc-content-type="reference-architecture"}
-{: toc-version="1.0"}
-
-
-
-
-
-Include a short description, summary, or overview in a single paragraph that follows the title.
-
-After the introduction, include a summary of the typical use case for the architecture. The use case might include the motivation for the architecture composition, business challenge, or target cloud environments.
-
-
-## Architecture diagram 
+## Architecture diagram
 {: #architecture-diagram}
 
 
