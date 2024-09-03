@@ -58,7 +58,10 @@ toc:
           - roks.md
           - pvs.md
   - navgroup:
-      id: migrate
+      id: help
       topics:
-      - vcf.md
-      - vcfas.md
+      - topicgroup:
+          label:  Solution Guidance
+          topics:
+          - vcf.md
+          - vcfas.md
