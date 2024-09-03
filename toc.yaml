@@ -33,7 +33,7 @@ toc:
             navtitle: Networking
           - topic: security-design.md
             navtitle: Security
-          - topic: migration-tools-design.md
+          - topic: migration-design.md
             navtitle: Migration
       - topicgroup:
           label: Architecture decisions
@@ -46,7 +46,7 @@ toc:
             navtitle: Networking
           - topic: security-architecture.md
             navtitle: Security
-          - topic: migration-tools-architecture.md
+          - topic: migration-architecture.md
             navtitle: Migration
   - navgroup:
       id: howto
