@@ -33,11 +33,8 @@ toc:
             navtitle: Networking
           - topic: security-design.md
             navtitle: Security
-          - topic: resiliency-design.md
-            navtitle: Resiliency
-          - topic: high-design.md
-            navtitle: High availability
-          - other-design.md
+          - topic: migration-tools-design.md
+            navtitle: Migration
       - topicgroup:
           label: Architecture decisions
           topics:
@@ -49,21 +46,16 @@ toc:
             navtitle: Networking
           - topic: security-architecture.md
             navtitle: Security
-          - topic: resiliency-architecture.md
-            navtitle: Resiliency
-          - topic: service-management-architecture.md
-            navtitle: Service management
-          - other-architecture.md
+          - topic: migration-tools-architecture.md
+            navtitle: Migration
   - navgroup:
-      id: deploy
+      id: howto
       topics:
-      - topic-7.md
-      - topic-8.md
+      - kvm.md
+      - roks.md
+      - pvs.md
   - navgroup:
-      id: reference
+      id: migrate
       topics:
-      - references.md
-  - navgroup:
-      id: help
-      topics:
-      - topic: topic-10.md
+      - vcf.md
+      - vcfas.md
