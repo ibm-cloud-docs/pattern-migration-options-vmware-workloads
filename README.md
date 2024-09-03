@@ -1,2 +1,2 @@
-# pattern-migration-options-vmware-workloads
-Documentation repository for pattern-migration-options-vmware-workloads
+# pattern templates
+Accelerator patterns template files
