@@ -35,8 +35,8 @@ toc:
             navtitle: Security
           - topic: resiliency-design.md
             navtitle: Resiliency
-          - topic: service-management-design.md
-            navtitle: Service management
+          - topic: high-design.md
+            navtitle: High availability
           - other-design.md
       - topicgroup:
           label: Architecture decisions
