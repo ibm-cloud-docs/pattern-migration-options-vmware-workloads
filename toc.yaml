@@ -51,9 +51,12 @@ toc:
   - navgroup:
       id: howto
       topics:
-      - kvm.md
-      - roks.md
-      - pvs.md
+      - topicgroup:
+          label: Optimize movement to IBM Cloud
+          topics:
+          - kvm.md
+          - roks.md
+          - pvs.md
   - navgroup:
       id: migrate
       topics:
