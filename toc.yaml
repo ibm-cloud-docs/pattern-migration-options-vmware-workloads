@@ -54,9 +54,12 @@ toc:
       - topicgroup:
           label: Optimize movement to IBM Cloud
           topics:
-          - kvm.md
-          - roks.md
-          - pvs.md
+          - topic: kvm.md
+            navtitle: IBM Cloud KVM Hypervisor
+          - topic:  roks.md
+            navtitle: IBM Cloud Red Hat OpenShift Virtualization
+          - topic: -pvs.md
+            navtitle: IBM Cloud Power Virtual Server
   - navgroup:
       id: help
       topics:
