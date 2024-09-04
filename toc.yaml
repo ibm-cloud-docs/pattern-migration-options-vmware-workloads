@@ -56,9 +56,9 @@ toc:
           topics:
           - topic: kvm.md
             navtitle: IBM Cloud KVM Hypervisor
-          - topic:  roks.md
+          - topic: roks.md
             navtitle: IBM Cloud Red Hat OpenShift Virtualization
-          - topic: -pvs.md
+          - topic: pvs.md
             navtitle: IBM Cloud Power Virtual Server
   - navgroup:
       id: help
