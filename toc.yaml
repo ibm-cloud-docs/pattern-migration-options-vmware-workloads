@@ -66,5 +66,7 @@ toc:
       - topicgroup:
           label:  Solution Guidance
           topics:
-          - vcf.md
-          - vcfas.md
+          - topic: vcf.md 
+            navtitle: VMware Cloud Foundation on IBM Cloud
+          - topic: vcfas.md
+            navtitle: VMware VCF as Service on IBM Cloud.
