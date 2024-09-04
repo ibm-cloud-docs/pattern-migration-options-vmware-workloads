@@ -69,4 +69,4 @@ toc:
           - topic: vcf.md 
             navtitle: VMware Cloud Foundation on IBM Cloud
           - topic: vcfas.md
-            navtitle: VMware VCF as Service on IBM Cloud.
+            navtitle: VMware Cloud Foundation as Service on IBM Cloud.
