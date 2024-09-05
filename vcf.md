@@ -7,11 +7,6 @@ subcollection: pattern-vpc-vsi-multizone-resiliency
 
 keywords:
 ---
-# VCF
-
-|  |  |  |  |  |
-| - | - | - | - | - |
-
 # IBM Cloud VMware Cloud Foundation
 
 For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting mission or business critical production distributed (x86-64) workloads in on-premises or co-located Data Centre facilities.
@@ -30,3 +25,8 @@ For many enterprises, VMware Software Defined Data Center (SDDC) is the virtuali
 | **Deploy VCF Workload Clusters**    | **Customer**                          | **IBM Cloud Automation**            | **IBM Cloud Automation**            | **IBM Cloud Automation**     |                             |
 | **Maintain VCF Workload Clusters**  | **Customer**                          | **Customer with IBM Cloud Support** | **Customer with IBM Cloud Support** | **IBM Cloud**                |                             |
 | **Application Software, Guest OS**  | **Customer**                          | **Customer**                        | **Customer**                        | **Customer**                 |                             |
+
+
+
+|  |  |  |  |  |
+| - | - | - | - | - |
