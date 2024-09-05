@@ -37,3 +37,9 @@ This whitepaper proposes to retain the VMware platform, leverage seamless migrat
 -   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of mission and business critical workloads.
 -   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM WatsonX services (GenAI (encoder / decoder / LLMs) and Machine Learning) to drive innovation into business processes.
 -   Optimize Distributed Workload – in move to IBM Cloud there is further opportunity to optimize the x86-64 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM.
+
+Here is the Overview diagram that provide details on the ................
+
+![Pattern overview.](Overview.svg "Title text that shows on hover here"){: caption="Figure 1. A description that prints on the page" caption-side="bottom"}
+
+some more text here.
