@@ -43,9 +43,8 @@ Business challenges are leading clients to re-evaluate the VMware (SDDC) on-prem
 This whitepaper proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
 
 
-![Pattern overview.](Overview.svg "Title text that shows on hover here"){: caption="Figure 1. A description that prints on the page" caption-side="bottom"}
+![Pattern overview.](Overview.svg "Lift and Shift VMware business workloads to IBM Cloud VMware Solutions"){: caption="Figure 1. Lift and Shift VMware business workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
 
-Figure 1 Lift and Shift VMware business workloads to IBM Cloud VMware Solutions.
 
 Moving the business workloads environments to IBM Cloud VMware Solutions enables the following benefits:
 
