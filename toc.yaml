@@ -13,7 +13,7 @@ toc:
     href: /docs/pattern-migration-options-vmware-workloads
     path: pattern-migration-options-vmware-workloads
     description: Lift and Shift of VMware Customer workloads on IBM Cloud VMware
-    label: Lift and Shift of VMware Customer workloads on IBM Cloud VMware
+    label: Lift and Shift of VMware Customer workloads to IBM Cloud VMware Solutions
   entries:
   - navgroup:
       id: overview
@@ -62,6 +62,10 @@ toc:
             navtitle: IBM Cloud Red Hat OpenShift
           - topic: pvs.md
             navtitle: IBM Cloud Power Virtual Server
+  - navgroup:
+      id: reference
+      topics:
+      - references.md
   - navgroup:
       id: help
       topics:
