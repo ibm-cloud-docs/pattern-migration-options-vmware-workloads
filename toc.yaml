@@ -9,7 +9,7 @@ toc:
     use-case: Public cloud
    # compliance: compliance-value
     audience: solution
-    content-type: deployment
+    content-type: white-paper
     href: /docs/pattern-migration-options-vmware-workloads
     path: pattern-migration-options-vmware-workloads
     description: Lift and Shift of VMware Customer workloads on IBM Cloud VMware
@@ -66,7 +66,7 @@ toc:
       - topicgroup:
           label:  Solution Guidance
           topics:
-          - topic: vcf.md 
+          - topic: vcf.md
             navtitle: VMware Cloud Foundation on IBM Cloud
           - topic: vcfas.md
             navtitle: VMware Cloud Foundation as Service on IBM Cloud.
