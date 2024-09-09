@@ -52,12 +52,14 @@ toc:
       id: howto
       topics:
       - topicgroup:
-          label: Optimize movement to IBM Cloud
+          label: Optimize on-premise lift and shift x86-64 to IBM Cloud
           topics:
+          - topic: aipaas.md
+            navtitle: IBM Cloud AI accelerators
           - topic: kvm.md
             navtitle: IBM Cloud KVM Hypervisor
           - topic: roks.md
-            navtitle: IBM Cloud Red Hat OpenShift Virtualization
+            navtitle: IBM Cloud Red Hat OpenShift
           - topic: pvs.md
             navtitle: IBM Cloud Power Virtual Server
   - navgroup:
