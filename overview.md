@@ -24,21 +24,24 @@ VMware has 44.8% market share in virtualization platform technologies, per Stati
 Business challenges are leading clients to re-evaluate the VMware (SDDC) on-premises or collocated platform:
 
 -   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified licensing model for VMware software. This new model resulted in businesses needed to fit their current VMware software licences mostly into one of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
--   High operational costs to maintain on-premises or colocation datacenter facilities: Maintaining compliance, security and growing capacity in on-premise datacenters can lead to significant capital expenditure (CapEx) and operating expenditure (OpEx) making release of funding for business innovation challenging. Maintaining compliance and security costs include
+-   High operational costs to maintain on-premises or colocation datacenter facilities: Maintaining compliance, security and growing capacity in on-premise datacenters can lead to significant capital expenditure (CapEx) and operating expenditure (OpEx) making release of funding for business innovation challenging.
+
+    Maintaining compliance and security costs include
+
     -   Managing costly compliance (update certifications) and audits
     -   Shorter server refresh cycles to avoid costly extended warranty
     -   Time consuming Server and VMware SDDC security patching updates
 
-        Growing on-premises capacity challenges
+        Growing on-premises capacity challenges include
 
     -   Slow (multi-week) new VMware ESX server provisioning for new capacity requirements
     -   Slow increased server memory (RAM) or additional storage request execution
 
-        In addition, businesses are faced with growing cybersecurity threads and data breaches requiring investment in security skills, processes and automation.
+        In addition, businesses faced with growing cybersecurity threads and data breaches are requiring their CISO to adopt the National Institute of Standards and Technology (NIST) cybersecurity best practices and apply adequate preventative and recovery security measures to their systems.
 
 -   Deliver improved platform availability, resiliency, performance and scaling business requirements due to the accelerated shift to a digital economy. There has been a substantial increase in users working remotely from home, which started during the COVID-19 pandemic and has continued since. This has led to an increased use of web-based and mobile applications. Due to this, business systems that once needed to be available 8 hours per day 5 days per week (8x5) now need to be available 24x7 with platform availability of 99.99%+. Cloud providers such as IBM can provide higher availability at lower costs than businesses can typically do on premise.
 -   Slow innovation and deployment of new modernized (cloud native) applications or services: initial application modernization to the cloud native operating system (Linux) and container platform (Kubernetes) was very successful for Web applications but have struggled particularly across .Net Framework applications, leading to delayed application modernization (to cloud native) development programs
--   Costly implementation of Cloud First, Move to Cloud strategies or datacentre exit mandates.
+-   Delayed implementation of datacentre exit business mandate.
 
 This whitepaper proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
 
