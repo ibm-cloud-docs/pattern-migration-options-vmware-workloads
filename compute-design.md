@@ -25,6 +25,13 @@ The following table summarizes the compute design considerations when solutionin
 -   Right size VMware VCF licensed cores
 -   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
 
+**Business innovation requirements**
+
+-   Enable AI inferencing in production business processes
+-   Provide encoder / decoder capabilities for GenAI business process innovation development
+-   Provide mission and business critical Kubernetes platform for modernized cloud native applications
+
+
 **Design Considerations**
 
 | Compute Areas                                     | Description                                                                                                                                                                                                                                                                                                                                                                        |
