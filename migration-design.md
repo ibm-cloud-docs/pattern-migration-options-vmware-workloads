@@ -12,7 +12,7 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Migration design
+# Migration Program
 {: #migration-design}
 
 

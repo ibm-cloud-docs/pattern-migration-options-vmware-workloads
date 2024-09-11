@@ -20,9 +20,12 @@ The following table summarizes the network design considerations when solutionin
 **Requirements**
 
 -   Fasttrack a datacenter exit strategy
--   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
+-   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.<br />
+
+
 
 **Design Considerations**
+
 
 | Network Areas                                                 | Description                              |
 |---------------------------------------------------------------|------------------------------------------|

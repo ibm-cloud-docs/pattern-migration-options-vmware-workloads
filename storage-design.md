@@ -11,7 +11,7 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Storage design
+# Storage Considerations
 
 {: \#storage-design}
 

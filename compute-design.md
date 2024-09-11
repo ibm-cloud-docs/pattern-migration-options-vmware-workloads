@@ -11,7 +11,7 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Compute design
+# Compute Considerations
 
 {: \#compute-design}
 
