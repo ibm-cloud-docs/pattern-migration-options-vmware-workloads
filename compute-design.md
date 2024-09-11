@@ -22,7 +22,7 @@ The following table summarizes the compute design considerations when solutionin
 -   No change to applications in move to cloud
 -   Fasttrack a datacenter exit strategy
 -   Right size VMware VCF licensed cores to business usage
--   Provide high performance and network bandwidth for large enterprise applications such as SAP
+-   Provide high performance CPU and network bandwidth for large enterprise applications such as SAP
 -   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
 -   Optimise VMware operational costs (VMware Cloud Foundation lifecycle)
 
