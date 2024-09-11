@@ -11,7 +11,7 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Network design
+# Network Considerations
 
 {: \#network-design}
 
@@ -21,6 +21,7 @@ The following table summarizes the network design considerations when solutionin
 
 -   Fasttrack a datacenter exit strategy
 -   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.<br />
+
 
 
 
