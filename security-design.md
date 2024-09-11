@@ -12,7 +12,7 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Security design
+# Security Considerations
 {: #security-design}
 
 
@@ -24,6 +24,7 @@ The following table summarizes the security design considerations when solutioni
 -   Follow VMware best practice to integrate IBM Cloud IAM with the enterprise LDAP directory service
 -   Provide relevant industry compliant compute platform
 -   Provide data encryption at rest and in-transit
+-   Provide Key service
 -   For mission and business critical workloads provide client encryption key solution.
 
 | Security Areas                     | Description                                                                                                                                                                                                                                                                                                                                     |
