@@ -17,7 +17,7 @@ keywords:
 
 The following table summarizes the security design considerations when solutioning IBM Cloud VMware Solutions for lift and shift VMware on-premises Workload into IBM Cloud with consideration for adopting the National Institute of Standards and Technology (NIST) cybersecurity best practices.
 
-## Requirements
+## Security Requirements
 
 -   Adopt and implement a Zero trust security strategy
 -   Integrate IBM Cloud IAM with the enterprise LDAP directory service
@@ -25,7 +25,7 @@ The following table summarizes the security design considerations when solutioni
 -   Provide a Key Management System for data encryption
 -   For mission and business critical workloads provide client encryption key retention solution.
 
-## Design Considerations
+## Security Considerations
 
 | Security Areas               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
