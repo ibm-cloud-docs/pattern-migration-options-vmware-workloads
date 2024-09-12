@@ -64,6 +64,8 @@ Many businesses are conservative when establishing a ratio of CPU to vCPU with r
 
 **Additional Tooling For Right Sizing VMware Cloud Foundation (VCF) licensing**
 
+TCO analysis - Akasia
+
 FinOps Aptio
 
 Tubonomic
