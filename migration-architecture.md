@@ -7,11 +7,19 @@ subcollection: pattern-vpc-vsi-multizone-resiliency
 
 keywords:
 ---
-# Migration tool architecture
 
-{: #resiliency-architecture}
+# Migration Tooling
 
-The following sections summarize the resiliency architecture decisions for workloads deployed on IBM Cloud VPC infrastructure.
+{: \#resiliency-architecture}
 
-|  |  |  |  |  |
-| - | - | - | - | - |
+**Requirements**
+
+-   No change to applications in move to cloud
+-   No change to IP addresses
+-   Fasttrack a datacenter exit strategy
+-   Production environment switchover window is minimized
+
+The following table provides prescriptive decisions for migration tooling.
+
+|   |   |   |   |   |
+|---|---|---|---|---|
