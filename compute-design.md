@@ -21,11 +21,11 @@ The following table summarizes the compute design considerations when solutionin
 
 **Requirements**
 
--   Provide low risk move to cloud of mission and business critical on-premises VMware virtualized x86-64 application and managed environments.
--   Provide a no application change migration capability to move workloads from on-premises to Cloud.
--   Fasttrack the datacentre exit strategy
--   Right size VMware VCF licensed cores to business usage
--   Provide high performance x86-64 CPU and network bandwidth for large enterprise applications such as SAP
+-   Provide low risk move to cloud of mission and business critical on-premises VMware virtualized x86-64 application and management environments.
+-   Provide a no application change migration capability, to move environments, using lift-and-shift method from on-premises to Cloud.
+-   Fasttrack the datacentre exit strategy.
+-   Right size VMware VCF licensed cores to business usage.
+-   Provide high performance x86-64 CPU and network bandwidth for large enterprise applications such as SAP.
 -   For Mission and Business critical workloads on x86-64 virtualized cloud platform deliver 99.99% Availability and RPO near zero.
 -   Optimise VMware operational and capital expenditure costs.
 
@@ -33,7 +33,7 @@ The following table summarizes the compute design considerations when solutionin
 
 -   Enable AI inferencing in production business processes.
 -   Provide encoder / decoder capabilities for developing GenAI business process innovation.
--   Provide cost efficient mission and business critical Kubernetes platform for modernized container cloud native applications.
+-   Provide cost efficient, flexible and scalable, mission and business critical Kubernetes platform for modernized container cloud native applications.
 
 ## Compute Considerations
 

@@ -15,9 +15,9 @@ keywords:
 
 {: \#storage-design}
 
-Requirements
+## Storage Requirements
 
-The storage requirements for the lift and shift VMware to IBM Cloud VMware solution focus on the following business requirements –
+The storage requirements for the lift and shift VMware to IBM Cloud VMware solution focus on the following
 
 Fasttrack a datacentre exit strategy.
 
@@ -30,3 +30,12 @@ Replace on-premises VMware storage solution.
 Provide replacement for on-premises tape backup storage.
 
 Provide secure automated backup service.
+
+## Storage Design Considerations
+
+| Storage Areas                                                                       | Description |
+|-------------------------------------------------------------------------------------|-------------|
+| Replacing on-premise VMware storage                                                 |             |
+| Mission and business critical VMware Storage for 99.99% Availability and RPO near 0 |             |
+| Replacing on-premise tape or long term storage                                      |             |
+| Optimize storage costs                                                              |             |

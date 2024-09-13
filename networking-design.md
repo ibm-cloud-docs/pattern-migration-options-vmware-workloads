@@ -17,24 +17,29 @@ keywords:
 
 The following table summarizes the network design considerations when solutioning lift and shift VMware on-premise workloads to IBM Cloud VMware Solutions.
 
-**Requirements**
+## Network Requirements
 
 -   Fasttrack a datacenter exit strategy
+-   Provide secure internet access to Web applications
 -   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
-<p>
+-   Provide secure administrative access to VMware Cloud Foundation
+-   Provide global load balancer capability for Web applications
+-   For regulated, mission and business critical workloads provide DMZ
 
+    **Optional requirements**
 
+-   Provide integration with on-premise Microsoft Active Directory
+-   
 
-**Design Considerations**
+## Design Considerations
 
-
-| Network Areas                                                 | Description                              |
-|---------------------------------------------------------------|------------------------------------------|
-| Choosing the Cloud location                                   |                                          |
-| Choosing between Classic and VPC                              | VPC for lowest latency highest bandwidth |
-| Lift and Shift of DMZ                                         |                                          |
-| Firewall / Router                                             |                                          |
-|                                                               |                                          |
-| Interconnectivity between IBM VMware Solutions and IBM Cloud  | Multiple VMware Solutions                |
-| DNS                                                           |                                          |
-| Load Balancer                                                 |                                          |
+| Network Areas                                                | Description               |
+|--------------------------------------------------------------|---------------------------|
+| Choosing the IBM Cloud region                                |                           |
+|                                                              |                           |
+| Lift and Shift of DMZ                                        |                           |
+| Firewall / Router                                            |                           |
+|                                                              |                           |
+| Interconnectivity between IBM VMware Solutions and IBM Cloud | Multiple VMware Solutions |
+| DNS                                                          |                           |
+| Global Load Balancer                                         |                           |
