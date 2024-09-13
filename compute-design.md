@@ -1,7 +1,7 @@
 ---
 copyright:
   years: 2023
-lastupdated: "2023-12-28"
+lastupdated: "2024-09-13"
 
 subcollection: pattern-migration-options-vmware-workloads
 
@@ -21,16 +21,15 @@ The following table summarizes the compute design considerations when solutionin
 
 **Requirements**
 
--   No change to applications in move to cloud
--   Fasttrack a datacenter exit strategy
+-   Provide low risk move to cloud of mission and business critical on-premises VMware virtualized x86-64 application and managed environments.
+-   Provide a no application change migration capability to move workloads from on-premises to Cloud.
+-   Fasttrack the datacentre exit strategy
 -   Right size VMware VCF licensed cores to business usage
--   Provide high performance CPU and network bandwidth for large enterprise applications such as SAP
--   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
--   Optimise VMware operational costs (VMware Cloud Foundation lifecycle)
+-   Provide high performance x86-64 CPU and network bandwidth for large enterprise applications such as SAP
+-   For Mission and Business critical workloads on x86-64 virtualized cloud platform deliver 99.99% Availability and RPO near zero.
+-   Optimise VMware operational and capital expenditure costs.
 
-## Business Innovation Requirements
-
-**Requirements**
+**Business Innovation Requirements**
 
 -   Enable AI inferencing in production business processes.
 -   Provide encoder / decoder capabilities for developing GenAI business process innovation.
