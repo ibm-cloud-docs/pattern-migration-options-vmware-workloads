@@ -52,12 +52,12 @@ toc:
       id: howto
       topics:
       - topicgroup:
-          label: Optimize on-premise lift and shift x86-64 to IBM Cloud
+          label: Lift and shift VMware On-Premise to IBM Cloud Decision Tree
           topics:
           - topic: aipaas.md
-            navtitle: IBM Cloud AI accelerators
+            navtitle: VMware On-Premise to IBM Cloud VMware Solutions
           - topic: kvm.md
-            navtitle: IBM Cloud KVM Hypervisor
+            navtitle: On-Premise x86-64 to IBM Cloud Optimize
           - topic: roks.md
             navtitle: IBM Cloud Red Hat OpenShift
           - topic: pvs.md
