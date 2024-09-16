@@ -51,7 +51,7 @@ Start with an RVTools report from the current on premise server environment. On 
 
 Therefore, fewer vCPU will be needed in the new environment which will lower VMware licensing cost. Cloud compute, memory and storage can be scaled rapidly so sizing can be aggressive initially in the cloud landing zone and scaled up as needed.
 
-Many VMware environments, such as development and test workloads do not need to run all day long. It is recommended to shift non-production to an hourly-consumption on IBM Cloud VMware as a Service (VMWaaS) for 20-30% price decrease in assets and licenses.
+Many VMware environments, such as development and test workloads do not need to run all day long. It is recommended to shift non-production to an hourly consumption on IBM Cloud VMware as a Service (VMWaaS) for 20-30% price decrease in assets and licenses.
 
 Many businesses are conservative when establishing a ratio of CPU to vCPU with ratios like 2:1 or 4:1 common. With the more powerful Sapphire Rapids processors available on IBM Cloud, these ratios can be increased dramatically to 8:1 or even 12:1 in some cases.
 
