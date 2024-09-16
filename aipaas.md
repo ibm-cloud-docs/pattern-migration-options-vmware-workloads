@@ -10,17 +10,10 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# IBM Cloud AI Accelerators
+# Decision Tree: IBM Cloud VMware Solutions
 
-**Requirements**
+**Description**
 
--   Enable AI inferencing in production business processes
--   Provide encoder / decoder capabilities for GenAI business process innovation development
-
-| AI accelerator Areas        | Description                                                                                                                                               |
-|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| AI inferencing capabilities | Significant capital expenditure to create capability in on-premise datacenter. Cost acquisition of AI accelerators (GPUs) from nVidia, Intel or AMD high. |
-|                             |                                                                                                                                                           |
-|                             |                                                                                                                                                           |
+![Pattern overview.](ibmcloudvmwaredecision.svg){: caption="Figure 4. Decsion Tree Lift and Shift VMware to IBM Cloud VMware Solutions" caption-side="bottom"}
 
 {: \#devops-design}
