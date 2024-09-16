@@ -58,10 +58,6 @@ toc:
             navtitle: VMware On-Premise to IBM Cloud VMware Solutions
           - topic: kvm.md
             navtitle: On-Premise x86-64 to IBM Cloud Optimize
-          - topic: roks.md
-            navtitle: IBM Cloud Red Hat OpenShift
-          - topic: pvs.md
-            navtitle: IBM Cloud Power Virtual Server
   - navgroup:
       id: reference
       topics:
