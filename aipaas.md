@@ -14,6 +14,12 @@ keywords:
 
 **Description**
 
+## IBM Cloud VMware Cloud Foundation Offerings Table
+
+![Pattern overview.](ibmcloudvcftable.svg){: caption="Figure 3. IBM Cloud VMware Cloud Foundation Offerings" caption-side="bottom"}
+
+**Description**
+
 ![Pattern overview.](ibmcloudvmwaredecision.svg){: caption="Figure 4. Decsion Tree Lift and Shift VMware to IBM Cloud VMware Solutions" caption-side="bottom"}
 
 {: \#devops-design}
