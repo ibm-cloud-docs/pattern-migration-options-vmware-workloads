@@ -40,7 +40,7 @@ Business challenges are leading clients to re-evaluate the VMware (SDDC) on-prem
         In addition, businesses faced with growing cybersecurity threads and data breaches are requiring their CISO to adopt the National Institute of Standards and Technology (NIST) cybersecurity best practices and apply adequate preventative and recovery security measures to their systems.
 
 -   Deliver improved platform availability, resiliency, performance and scaling business requirements due to the accelerated shift to a digital economy. There has been a substantial increase in users working remotely from home, which started during the COVID-19 pandemic and has continued since. This has led to an increased use of web-based and mobile applications. Due to this, business systems that once needed to be available 8 hours per day 5 days per week (8x5) now need to be available 24x7 with platform availability of 99.99%+. Cloud providers such as IBM can provide higher availability at lower costs than businesses can typically do on premise.
--   Slow innovation and deployment of new modernized (cloud native) applications or services: initial application modernization to the cloud native operating system (Linux) and container platform (Kubernetes) was very successful for Web applications but have struggled particularly across .Net Framework applications, leading to delayed application modernization (to cloud native) development programs
+-   Slow innovation and deployment of new modernized (cloud native) applications or services: initial application modernization to the cloud native operating system (Linux) and container platform (Kubernetes) was very successful for Web applications but have struggled particularly with modernization of Windows .Net Framework applications, leading to delayed application modernization (to cloud native) development programs
 -   Delayed implementation of datacentre exit business mandate.
 
 This whitepaper proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
@@ -49,11 +49,11 @@ This whitepaper proposes to retain the VMware platform, leverage seamless migrat
 ![Pattern overview.](Overview.svg "Lift and Shift VMware business workloads to IBM Cloud VMware Solutions"){: caption="Figure 1. Lift and Shift VMware business workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
 
 
-Moving the business workloads environments to IBM Cloud VMware Solutions enables the following benefits:
+Moving mission and business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
 
--   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.) enabling optimized compute utilization and scale the IT requirements.
--   Opportunity to move VMware services (exit VMware skill risk) to IBM Cloud through VCFaaS (including DRaaS).
 -   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of mission and business critical workloads.
+-   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.), access to VMware compute accelerators including network uplinks 100 Gb/s,  enabling higher virtual instance densification, CPU utilization. Scaling capacity on VPC offerings allow for new capacity with the hour.
+-   Opportunity to move VMware managed services and VMWare automation asset maintenance to IBM Cloud VMWare Cloud Foundation as a Service (including DRaaS).
 -   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM Watsonx services (GenAI (encoder / decoder / LLMs) and Machine Learning) to drive innovation into business processes.
 -   Optimize Distributed Workload – in move to IBM Cloud there is further opportunity to optimize the x86-64 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM.
 -   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a a better near-term ROI, which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
