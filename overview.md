@@ -40,6 +40,7 @@ Business challenges are leading clients to re-evaluate the VMware (SDDC) on-prem
 -   Deliver improved platform availability, resiliency, performance and scaling business requirements due to the accelerated shift to a digital economy. There has been a substantial increase in users working remotely from home, which started during the COVID-19 pandemic and has continued since. This has led to an increased use of web-based and mobile applications. Due to this, business systems that once needed to be available 8 hours per day 5 days per week (8x5) now need to be available 24x7 with platform availability of 99.99%+. Cloud providers such as IBM can provide higher availability at lower costs than businesses can typically do on premise.
 -   Slow innovation and deployment of new modernized (cloud native) applications or services: initial application modernization to the cloud native operating system (Linux) and container platform (Kubernetes) was very successful for Web applications but have struggled particularly with modernization of Windows .Net Framework applications, leading to delayed application modernization (to cloud native) development programs
 -   Delayed implementation of a datacentre exit business mandate.
+-   Maintaining VMware automation assets while developing Infrastructure as Code asset across hybrid cloud platform.
 
 This whitepaper proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
 
