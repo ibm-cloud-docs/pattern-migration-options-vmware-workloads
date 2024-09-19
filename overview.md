@@ -17,18 +17,18 @@ keywords:
 
 For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86-64) workloads in on-premises or in co-located Data Centre facilities.
 
-VMware has 44.8% market share in virtualization platform technologies, per Statista and 79% of Enterprise across globe runs VMware per IDC.
+VMware has 44.8% market share in virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
 
 Business challenges are leading clients to re-evaluate the VMware (SDDC) on-premises or collocated platform:
 
--   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified licensing model for VMware software. This new model resulted in businesses needed to fit their current VMware software licences mostly into one of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
+-   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified licensing model for VMware software. This new model resulted in businesses needing to fit their current VMware software licenses mostly into one of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
 -   High operational costs to maintain on-premises or colocation datacenter facilities: Maintaining compliance, security and growing capacity in on-premise datacenters can lead to significant capital expenditure (CapEx) and operating expenditure (OpEx) making release of funding for business innovation challenging.
 
     Maintaining compliance and security costs include
 
     -   Managing costly compliance (update certifications) and audits
     -   Shorter server refresh cycles to avoid costly extended warranty
-    -   Time consuming Server and VMware SDDC security patching updates
+    -   Time consuming Server and VMware VCF component security patching updates
 
         Growing on-premises capacity challenges include
 
@@ -49,11 +49,11 @@ This whitepaper proposes to retain the VMware platform, leverage seamless migrat
 Moving mission and business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
 
 -   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of mission and business critical workloads.
--   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.), access to VMware compute accelerators including network uplinks 100 Gb/s, enabling higher virtual instance densification, CPU utilization. Scaling capacity on VPC offerings allow for new capacity with the hour.
+-   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.), access to VMware compute accelerators including network uplinks of 100 Gb/s, enabling higher virtual instance densification and CPU utilization. Scaling capacity on VPC offerings allow for new capacity within the hour.
 -   Opportunity to move VMware managed services and VMWare automation asset maintenance to IBM Cloud VMWare Cloud Foundation as a Service (including DRaaS).
--   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM Watsonx services (GenAI (encoder / decoder / LLMs) and Machine Learning) to drive innovation into business processes.
+-   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM Watsonx services GenAI, Inferencing and Machine Learning to drive innovation into business processes.
 -   Optimize Distributed Workload – in move to IBM Cloud there is further opportunity to optimize the x86-64 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM.
--   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a a better near-term ROI, which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
+-   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a better near-term ROI, which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
 
 ![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 1. A description that prints on the page" caption-side="bottom"}
 
