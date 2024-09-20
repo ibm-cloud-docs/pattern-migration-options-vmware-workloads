@@ -17,17 +17,17 @@ keywords:
 
 ## Storage Requirements
 
-## Fast track datacenter exit by moving VMware workloads to cloud.
+Fast track datacenter exit by moving VMware workloads to cloud.
 
-## Replace the on-premises VMware storage solution.
+Replace the on-premises VMware storage solution.
 
-## Optimize VMware storage operational expense (OpEx) and Capital expenditure (CapEx) costs.
+Optimize VMware storage operational expense (OpEx) and Capital expenditure (CapEx) costs.
 
-## For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
+For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
 
-## Provide replacement for on-premises tape backup storage.
+Provide replacement for on-premises tape backup storage.
 
-## Provide secure automated backup service.
+Provide secure automated backup service.
 
 ## Storage Design Considerations
 
