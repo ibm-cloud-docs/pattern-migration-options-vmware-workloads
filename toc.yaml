@@ -35,19 +35,19 @@ toc:
             navtitle: Security
           - topic: migration-design.md
             navtitle: Migration
-      - topicgroup:
-          label: Architecture decisions
-          topics:
-          - topic: compute-architecture.md
-            navtitle: Compute
-          - topic: storage-architecture.md
-            navtitle: Storage
-          - topic: networking-architecture.md
-            navtitle: Networking
-          - topic: security-architecture.md
-            navtitle: Security
-          - topic: migration-architecture.md
-            navtitle: Migration
+      # - topicgroup:
+      #     label: Architecture decisions
+      #     topics:
+      #     - topic: compute-architecture.md
+      #       navtitle: Compute
+      #     - topic: storage-architecture.md
+      #       navtitle: Storage
+      #     - topic: networking-architecture.md
+      #       navtitle: Networking
+      #     - topic: security-architecture.md
+      #       navtitle: Security
+      #     - topic: migration-architecture.md
+      #       navtitle: Migration
   - navgroup:
       id: howto
       topics:
