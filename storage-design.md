@@ -12,22 +12,17 @@ keywords:
 {{site.data.keyword.attribute-definition-list}}
 
 # Storage Considerations
-
-{: \#storage-design}
+{: #storage-design}
 
 ## Storage Requirements
+{: #storage-requirements}
 
-Fast track datacenter exit by moving VMware workloads to cloud.
-
-Replace the on-premises VMware storage solution.
-
-Optimize VMware storage operational expense (OpEx) and Capital expenditure (CapEx) costs.
-
-For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
-
-Provide replacement for on-premises tape backup storage.
-
-Provide secure automated backup service.
+1.  Fast track datacenter exit by moving VMware workloads to cloud.
+2.  Replace the on-premises VMware storage solution.
+3.  Optimize VMware storage operational expense (OpEx) and Capital expenditure (CapEx) costs.
+4.  For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
+5.  Provide replacement for on-premises tape backup storage.
+6.  Provide secure automated backup service.
 
 Storage Design Considerations
 
