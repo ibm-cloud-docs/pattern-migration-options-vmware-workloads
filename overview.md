@@ -46,9 +46,9 @@ This whitepaper proposes to retain the VMware platform, leverage seamless migrat
 
 ![Pattern overview.](Overview.svg){: caption="Figure 1. Lift and Shift VMware business workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
 
-Moving mission and business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
+Moving business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
 
--   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of mission and business critical workloads.
+-   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of business critical workloads.
 -   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.), access to VMware compute accelerators including network uplinks of 100 Gb/s, enabling higher virtual instance densification and CPU utilization. Scaling capacity on VPC offerings allow for new capacity within the hour.
 -   Opportunity to move VMware managed services and VMWare automation asset maintenance to IBM Cloud VMWare Cloud Foundation as a Service (including DRaaS).
 -   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM Watsonx services GenAI, Inferencing and Machine Learning to drive innovation into business processes.
