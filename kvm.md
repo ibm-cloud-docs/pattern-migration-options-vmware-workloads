@@ -10,8 +10,6 @@ keywords:
 
 # Decision tree: On-Premise x86-64 to IBM Cloud Optimize
 
-**Description**
-
 
 ![Pattern overview.](decisionmatrixoptimize.svg){: caption="Figure 4. Decsion Tree Lift and Shift VMware to IBM Cloud VMware Solutions" caption-side="bottom"}
 
