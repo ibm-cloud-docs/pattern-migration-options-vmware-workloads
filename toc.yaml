@@ -12,7 +12,7 @@ toc:
     content-type: white-paper
     href: /docs/pattern-migration-options-vmware-workloads
     path: pattern-migration-options-vmware-workloads
-    description: Lift and Shift of VMware Customer workloads on IBM Cloud VMware
+    description: Lift and Shift of VMware workloads on IBM Cloud VMware
     label: Lift and Shift VMware OnPremise Workloads to IBM Cloud VMware Solutions
   entries:
   - navgroup:
