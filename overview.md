@@ -9,9 +9,11 @@ keywords:
 ---
 {{site.data.keyword.attribute-definition-list}}
 
-# Overview
+# VMware Lift and Shift to IBM Cloud White Paper
 
-{: #overview}
+{: #whitepaper}
+
+## Overview
 
 For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86-64) workloads in on-premises or in co-located Data Centre facilities.
 
@@ -38,6 +40,10 @@ Business challenges are leading clients to re-evaluate the VMware (SDDC) on-prem
 - Delayed implementation of a datacentre exit business mandate.
 - Maintaining VMware automation assets while developing Infrastructure as Code asset across hybrid cloud platform.
 
+
+
+## Architecture Overview
+
 This whitepaper proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
 
 ![Pattern overview.](Overview.svg){: caption="Figure 1. Lift and Shift VMware business workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
@@ -51,7 +57,7 @@ Moving business critical VMware workload environments to IBM Cloud VMware Soluti
 - Optimize Distributed Workload – in move to IBM Cloud there is further opportunity to optimize the x86-64 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM.
 - Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a better near-term ROI, which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
 
-![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 1. A description that prints on the page" caption-side="bottom"}
+![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 2. A description that prints on the page" caption-side="bottom"}
 
 Figure 2 Generating return on investment with move to IBM Cloud VMware solutions.
 
