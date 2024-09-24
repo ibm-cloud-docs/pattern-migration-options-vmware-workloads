@@ -15,11 +15,11 @@ keywords:
 
 ## Overview
 
-For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86-64) workloads in on-premises or in co-located Data Centre facilities.
+For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86) workloads in on-premises or in co-located Data Centre facilities.
 
 VMware has 44.8% market share in virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
 
-Business challenges are leading clients to re-evaluate the VMware (SDDC) on-premises or collocated platform:
+Business challenges are leading clients to re-evaluate the VMware on-premises or collocated platform:
 
 - Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified licensing model for VMware software. This new model resulted in businesses needing to fit their current VMware software licenses mostly into one of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
 - High operational costs to maintain on-premises or colocation datacenter facilities: Maintaining compliance, security and growing capacity in on-premise datacenters can lead to significant capital expenditure (CapEx) and operating expenditure (OpEx) making release of funding for business innovation challenging.
@@ -93,7 +93,7 @@ The following table summarizes the compute design considerations when solutionin
 
 ### Decision Tree
 
-Here is the VMware DEcision tree 
+Here is the VMware DEcision tree
 ![Decision Tree](allinone-Decision.svg){: caption="Figure 2. A description that prints on the page" caption-side="bottom"}
 
 ### Business Requirements
