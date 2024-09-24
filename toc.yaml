@@ -16,25 +16,25 @@ toc:
     label: Lift and Shift VMware OnPremise Workloads to IBM Cloud VMware Solutions
   entries:
   - navgroup:
-      id: overview
+      id: reference
       topics:
       - overview.md
-  - navgroup:
-      id: plan
-      topics:
-      - topicgroup:
-          label: Design considerations
-          topics:
-          - topic: compute-design.md
-            navtitle: Compute
-          - topic: storage-design.md
-            navtitle: Storage
-          - topic: networking-design.md
-            navtitle: Networking
-          - topic: security-design.md
-            navtitle: Security
-          - topic: migration-design.md
-            navtitle: Migration
+  #- navgroup:
+   #  id: plan
+   #    topics:
+   #    - topicgroup:
+   #        label: Design considerations
+   #        topics:
+   #        - topic: compute-design.md
+   #          navtitle: Compute
+   #        - topic: storage-design.md
+   #          navtitle: Storage
+   #        - topic: networking-design.md
+   #          navtitle: Networking
+   #        - topic: security-design.md
+   #          navtitle: Security
+   #        - topic: migration-design.md
+   #          navtitle: Migration
       # - topicgroup:
       #     label: Architecture decisions
       #     topics:
@@ -48,27 +48,27 @@ toc:
       #       navtitle: Security
       #     - topic: migration-architecture.md
       #       navtitle: Migration
-  - navgroup:
-      id: howto
-      topics:
-      - topicgroup:
-          label: Lift and shift VMware On-Premise to IBM Cloud Decision Tree
-          topics:
-          - topic: aipaas.md
-            navtitle: VMware On-Premise to IBM Cloud VMware Solutions
-          - topic: kvm.md
-            navtitle: On-Premise x86-64 to IBM Cloud Optimize
-  - navgroup:
-      id: reference
-      topics:
-      - references.md
-  - navgroup:
-      id: help
-      topics:
-      - topicgroup:
-          label:  Solution Guidance
-          topics:
-          - topic: vcf.md
-            navtitle: VMware Cloud Foundation on IBM Cloud
-          - topic: vcfas.md
-            navtitle: VMware Cloud Foundation as Service on IBM Cloud.
+  # - navgroup:
+   #    id: howto
+    #   topics:
+     #  - topicgroup:
+     #      label: Lift and shift VMware On-Premise to IBM Cloud Decision Tree
+     #      topics:
+      #     - topic: aipaas.md
+       #      navtitle: VMware On-Premise to IBM Cloud VMware Solutions
+      #     - topic: kvm.md
+       #      navtitle: On-Premise x86-64 to IBM Cloud Optimize
+  # - navgroup:
+  #     id: reference
+  #     topics:
+  #     - references.md
+ #  - navgroup:
+  #     id: help
+  #     topics:
+   #    - topicgroup:
+    #       label:  Solution Guidance
+    #       topics:
+      #     - topic: vcf.md
+      #       navtitle: VMware Cloud Foundation on IBM Cloud
+      #     - topic: vcfas.md
+      #       navtitle: VMware Cloud Foundation as Service on IBM Cloud.
