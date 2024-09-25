@@ -9,10 +9,8 @@ keywords:
 ---
 {{site.data.keyword.attribute-definition-list}}
 
-# Overview 
-{: #overview}
 
-## VMware Lift and Shift to IBM Cloud White Paper
+# VMware Lift and Shift to IBM Cloud White Paper
 {: #whitepaper}
 For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86) workloads in on-premises or in co-located Data Centre facilities.
 
@@ -209,3 +207,11 @@ Minimum Viable Product (MVP) Phase3: Provides the confidence in the viability of
 Migration Phase4: Execution of workload (environment) migration. The duration of the migration to IBM Cloud phase is dependent on the complexity and criticality of the production environment. IBM Technology Expert Labs include accelerator services to migrate workload to IBM Cloud.
 
 Operate (run) Phase5: Refers to tasks and processes to maintain the workload operational once the workload has been migrated to the target IBM Cloud VMware platform. Key processes include Backup, Observability (logging / monitoring) and maintaining compliance.
+
+
+## References
+{: #references}
+
+[IBM Cloud VMware Solutions](https://cloud.ibm.com/docs/vmwaresolutions)
+
+[Getting Started with IBM Cloud VMware Solutions](https://cloud.ibm.com/docs/vmwaresolutions?topic=vmwaresolutions-getting-started)
