@@ -5,11 +5,10 @@
 toc:
   properties:
     subcollection: pattern-migration-options-vmware-workloads
-   # industry: industry-value
     use-case: Public cloud
-   # compliance: compliance-value
     audience: solution
     content-type: white-paper
+    navigation: hidden
     href: /docs/pattern-migration-options-vmware-workloads
     path: pattern-migration-options-vmware-workloads
     description: Lift and Shift of VMware workloads on IBM Cloud VMware
@@ -19,56 +18,3 @@ toc:
       id: reference
       topics:
       - overview.md
-  #- navgroup:
-   #  id: plan
-   #    topics:
-   #    - topicgroup:
-   #        label: Design considerations
-   #        topics:
-   #        - topic: compute-design.md
-   #          navtitle: Compute
-   #        - topic: storage-design.md
-   #          navtitle: Storage
-   #        - topic: networking-design.md
-   #          navtitle: Networking
-   #        - topic: security-design.md
-   #          navtitle: Security
-   #        - topic: migration-design.md
-   #          navtitle: Migration
-      # - topicgroup:
-      #     label: Architecture decisions
-      #     topics:
-      #     - topic: compute-architecture.md
-      #       navtitle: Compute
-      #     - topic: storage-architecture.md
-      #       navtitle: Storage
-      #     - topic: networking-architecture.md
-      #       navtitle: Networking
-      #     - topic: security-architecture.md
-      #       navtitle: Security
-      #     - topic: migration-architecture.md
-      #       navtitle: Migration
-  # - navgroup:
-   #    id: howto
-    #   topics:
-     #  - topicgroup:
-     #      label: Lift and shift VMware On-Premise to IBM Cloud Decision Tree
-     #      topics:
-      #     - topic: aipaas.md
-       #      navtitle: VMware On-Premise to IBM Cloud VMware Solutions
-      #     - topic: kvm.md
-       #      navtitle: On-Premise x86-64 to IBM Cloud Optimize
-  # - navgroup:
-  #     id: reference
-  #     topics:
-  #     - references.md
- #  - navgroup:
-  #     id: help
-  #     topics:
-   #    - topicgroup:
-    #       label:  Solution Guidance
-    #       topics:
-      #     - topic: vcf.md
-      #       navtitle: VMware Cloud Foundation on IBM Cloud
-      #     - topic: vcfas.md
-      #       navtitle: VMware Cloud Foundation as Service on IBM Cloud.
