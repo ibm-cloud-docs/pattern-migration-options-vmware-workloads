@@ -120,6 +120,8 @@ Optimize x86 decision tree in move to IBM Cloud
 
 ![Decision Tree](allinone-Decision-optimize.svg){: caption="Figure 3. Optimize x86 IBM Cloud Decision Tree" caption-side="bottom"}
 
+
+
 ## Storage Considerations
 
 {: \#storage-design}
@@ -128,10 +130,10 @@ Optimize x86 decision tree in move to IBM Cloud
 
 {: \#storage-requirements}
 
-* Fast track datacenter exit by moving VMware workloads to cloud.
+
 * Replace the on-premises VMware storage solution.
 * Optimize VMware storage operational expense (OpEx) and Capital expenditure (CapEx) costs.
-* For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
+* For business critical workloads deliver 99.99% Availability and RPO near zero.
 * Provide replacement for on-premises tape backup storage.
 * Provide secure automated backup service.
 
@@ -139,7 +141,7 @@ Optimize x86 decision tree in move to IBM Cloud
 
 | Storage Areas                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| IBM Cloud Storage Options    | The options for storage for VMware solutions on IBM Cloud are IBM Cloud File or Block, vSAN and Cloud Object Storage. With the new VCF licensing bundle, vSAN software is included by default and 1 TiB per compute core of vSAN storage is included. This makes vSAN more economical than Block or File in most cases. IBM Cloud Object Storage is best suited for unstructured data and long term or archival data storage. IBM Block and File storage offer scalable storage without having to scale compute nodes. However, they do not have the same resiliency options, such as (geographically) stretched clusters as vSAN. vSAN scales differently from Block and File. It is a hyperconverged architecture for which compute and storage reside in the same node which requires additional compute nodes to increase storage capacity. |
+| IBM Cloud Storage Options    | The options for storage for VMware solutions on IBM Cloud are IBM Cloud File or Block, vSAN and Cloud Object Storage. With the new VCF licensing bundle, vSAN software and 1 TiB per compute core of vSAN storage are included. This makes vSAN more economical than Block or File in most cases. IBM Cloud Object Storage is best suited for unstructured data and long term or archival data storage. IBM Block and File storage offer scalable storage without having to scale compute nodes. However, they do not have the same resiliency options, such as (geographically) stretched clusters as vSAN. vSAN scales differently from Block and File. It is a hyperconverged architecture for which compute and storage reside in the same node which requires additional compute nodes to increase storage capacity. |
 | Backup and Disaster Recovery | Disaster Recovery tools - IBM Cloud offers a variety of IBM and third party tools for backup and disaster recovery of VMWare workloads                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 Veeam - enables Availability with integrated backup, recovery and replication on IBM Cloud. Veeam delivers efficient agentless backups and disaster recovery of IBM Cloud for VMware Solutions workloads and flexible recovery from IBM Cloud backup repositories. Veeam on IBM Cloud seamlessly integrates directly with VMware hypervisors to help achieve high availability. This service provides recovery points and time objectives for your applications and data. The recovery points and time objectives can be provided in less than 15 minutes after configuration is completed.
