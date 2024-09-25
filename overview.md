@@ -134,10 +134,10 @@ The following table summarizes the network design considerations when solutionin
 ### Network Requirements
 
 -   Provide secure access to Web applications from internet
--   For Mission and Business critical workloads deliver 99.99% Availability and RPO near zero.
+-   For Business critical workloads deliver 99.99% Availability and RPO near zero.
 -   Provide secure connectivity between customer remaining Onpremise and VMware Cloud Foundation on IBM Cloud
 -   Provide global load balancer capability for Web applications
--   For regulated, mission and business critical workloads provide DMZ
+-   For regulated and business critical workloads provide DMZ
 
 **Optional requirements**
 
