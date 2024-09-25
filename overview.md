@@ -14,9 +14,9 @@ keywords:
 
 {: \#whitepaper}
 
-## Overview
+## Introduction
 
-{: \#overview} For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86) workloads in on-premises or in co-located Data Centre facilities.
+For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86) workloads in on-premises or in co-located Data Centre facilities.
 
 VMware has 44.8% market share in virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
 
