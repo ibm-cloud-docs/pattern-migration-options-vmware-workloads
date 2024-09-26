@@ -24,13 +24,14 @@ Business challenges are leading clients to re-evaluate the VMware x86 on-premise
 -   High operational costs to maintain on-premise or colocation datacenter facility:  significant  operating expenditure (OpEx) are incurred to maintain compliance and security of the VMware infratructure ressources across the x86 bare metal servers, storage and network devices. OpEx costs include: \n
 
     -   Managing costly compliance (update certifications) and audits
-    -   Shorter server refresh cycles to avoid costly extended warranty
+
     -   Time consuming Server and VMware VCF component security patching updates
 
         Growing on-premises capacity challenges include
 
     -   Slow (multi-week) new VMware ESX server provisioning for new capacity requirements
-    -   Slow increased server memory (RAM) or additional storage request execution
+    -   Slow increased server memory (RAM) or additional storage request executio
+    -   Shorter server refresh cycles to avoid costly extended warranty
 
         In addition, businesses faced with growing cybersecurity threads and data breaches are requiring their CISO to adopt the National Institute of Standards and Technology (NIST) cybersecurity best practices and apply adequate preventative and recovery security measures to their systems. Challenges in deploying the zero trust security model across hybrid cloud.
 
