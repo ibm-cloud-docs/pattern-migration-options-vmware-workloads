@@ -21,19 +21,16 @@ For many enterprises, VMware Software Defined Data Center (SDDC) is the x86 virt
 Business challenges are leading clients to re-evaluate the VMware x86 on-premises or collocated platform:
 
 -   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified subscription based licensing model for VMware software. This new model resulted in businesses needing to fit their then perpetual VMware software licenses into one or both of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
--   High operational costs to maintain on-premise or colocation datacenter facility:  significant  operating expenditure (OpEx) are incurred to maintain compliance and security of the VMware infratructure ressources across the x86 bare metal servers, storage and network devices. OpEx costs include: \n
-
+-   High operational costs to maintain on-premise or colocation datacenter facility:  significant operating expenditure (OpEx) are incurred to maintain compliance and security of the VMware infratructure ressources across the x86 bare metal servers, storage and network devices. OpEx costs include: \n
     -   Managing costly compliance (update certifications) and audits
-
     -   Time consuming Server and VMware VCF component security patching updates
 
-        Growing on-premises capacity challenges include
-
+-   High Capital Expenditure (CaEx) costs to grow or adapt the on-premise facility to adapt to business requirements include: \n
     -   Slow (multi-week) new VMware ESX server provisioning for new capacity requirements
     -   Slow increased server memory (RAM) or additional storage request executio
     -   Shorter server refresh cycles to avoid costly extended warranty
 
-        In addition, businesses faced with growing cybersecurity threads and data breaches are requiring their CISO to adopt the National Institute of Standards and Technology (NIST) cybersecurity best practices and apply adequate preventative and recovery security measures to their systems. Challenges in deploying the zero trust security model across hybrid cloud.
+-   Cybersecurity:  businesses are faced with growing cybersecurity threads and data breaches are requiring their CISO to adopt the National Institute of Standards and Technology (NIST) cybersecurity best practices and apply adequate preventative and recovery security measures to their systems. Challenges in deploying the zero trust security model across hybrid cloud.
 
 -   Deliver improved platform availability, resiliency, performance and scaling business requirements due to the accelerated shift to a digital economy. There has been a substantial increase in users working remotely from home, which started during the COVID-19 pandemic and has continued since. This has led to an increased use of web-based and mobile applications. Due to this, business systems that once needed to be available 8 hours per day 5 days per week (8x5) now need to be available 24x7 with platform availability of 99.99%+. Cloud providers such as IBM can provide higher availability at lower costs than businesses can typically do on premise.
 -   Slow innovation and deployment of new modernized (cloud native) applications or services: initial application modernization to the cloud native operating system (Linux) and container platform (Kubernetes) was very successful for Web applications but have struggled particularly with modernization of Windows .Net Framework applications, leading to delayed application modernization (to cloud native) development programs
