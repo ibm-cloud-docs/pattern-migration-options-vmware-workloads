@@ -16,16 +16,12 @@ keywords:
 
 ## Introduction
 
-For many enterprises, VMware Software Defined Data Center (SDDC) is the virtualization platform for hosting production business critical distributed (x86) workloads in on-premises or in co-located Data Centre facilities.
+For many enterprises, VMware Software Defined Data Center (SDDC) is the x86 virtualization platform for hosting production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
 
-VMware has 44.8% market share in virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
+Business challenges are leading clients to re-evaluate the VMware x86 on-premises or collocated platform:
 
-Business challenges are leading clients to re-evaluate the VMware on-premises or collocated platform:
-
--   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified licensing model for VMware software. This new model resulted in businesses needing to fit their current VMware software licenses mostly into one of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
--   High operational costs to maintain on-premises or colocation datacenter facilities: Maintaining compliance, security and growing capacity in on-premise datacenters can lead to significant capital expenditure (CapEx) and operating expenditure (OpEx) making release of funding for business innovation challenging.
-
-    Maintaining compliance and security costs include
+-   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified subscription based licensing model for VMware software. This new model resulted in businesses needing to fit their then perpetual VMware software licenses into one or both of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
+-   High operational costs to maintain on-premise or colocation datacenter facility:  significant  operating expenditure (OpEx) are incurred to maintain compliance and security of the VMware infratructure ressources across the x86 bare metal servers, storage and network devices. OpEx costs include: \n
 
     -   Managing costly compliance (update certifications) and audits
     -   Shorter server refresh cycles to avoid costly extended warranty
