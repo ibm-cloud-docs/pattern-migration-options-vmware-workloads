@@ -56,8 +56,7 @@ Figure 2 Generating return on investment with move to IBM Cloud VMware solutions
 
 
 
-This whitepaper describes the design solution considerations and migration program approach to fasttrack a move of the On Premise or Co- Located VMware platform and x86 workload environments (PROD, UAT, TEST, DEV) to IBM Cloud VMware Solutions using lift-and-shift with no change to the business applications.
-
+This whitepaper describes the solution considerations, migration approach for a lift and shift of the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using lift-and-shift method with no change to the business applications.
 
 
 
