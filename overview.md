@@ -18,6 +18,8 @@ keywords:
 
 For many enterprises, VMware Software Defined Data Center (SDDC) is the x86 virtualization platform for hosting production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
 
+### On-Premise Business Challenges
+
 Business challenges are leading clients to re-evaluate the VMware x86 on-premises or collocated platform:
 
 -   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified subscription based licensing model for VMware software. This new model resulted in businesses needing to fit their then perpetual VMware software licenses into one or both of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
@@ -37,15 +39,7 @@ Business challenges are leading clients to re-evaluate the VMware x86 on-premise
 -   Delayed implementation of a datacentre exit business mandate.
 -   Maintaining VMware automation assets while developing Infrastructure as Code asset across hybrid cloud platform.
 
-This whitepaper describes the design solution considerations and migration program approach to fasttrack a move of the On Premise or Co- Located VMware platform and x86 workload environments (PROD, UAT, TEST, DEV) to IBM Cloud VMware Solutions using lift-and-shift with no change to the business applications.
-
-## Architecture Overview
-
-{: \#architecture}
-
-The solution architecture proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
-
-![Pattern overview.](Overview.svg){: caption="Figure 1. Lift and Shift VMware business workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
+### IBM Cloud VMware Solution Business Benefits
 
 Moving business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
 
@@ -59,6 +53,23 @@ Moving business critical VMware workload environments to IBM Cloud VMware Soluti
 ![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 2. A description that prints on the page" caption-side="bottom"}
 
 Figure 2 Generating return on investment with move to IBM Cloud VMware solutions.
+
+
+
+This whitepaper describes the design solution considerations and migration program approach to fasttrack a move of the On Premise or Co- Located VMware platform and x86 workload environments (PROD, UAT, TEST, DEV) to IBM Cloud VMware Solutions using lift-and-shift with no change to the business applications.
+
+
+
+
+
+## Architecture Overview
+
+{: \#architecture}
+
+The solution architecture proposes to retain the VMware platform, leverage seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
+
+![Pattern overview.](Overview.svg){: caption="Figure 1. Lift and Shift VMware business workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
+
 
 ## Compute Solutioning Considerations
 
