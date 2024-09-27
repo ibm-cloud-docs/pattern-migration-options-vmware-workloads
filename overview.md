@@ -196,7 +196,7 @@ The following table summarizes the security design considerations when solutioni
 
 ## Migration Program
 
-The move of a mission or business critical distributed production platform to IBM Cloud is underpinned by the migration program which we propose to divide into 5 phases: Discovery, Assessment, MVP, Migration and Operate.
+The move of a business critical x86 VMware production platform to IBM Cloud is underpinned by the migration program which we propose to divide into 5 phases: Discovery, Assessment, MVP, Migration and Operate.
 
 Discovery Phase1: Data is collected across technical, sales and business teams to understand the motivation and internal factors driving move to Cloud. Identify priorities such as scalability, solving functional issues, lack of in-house skills, reducing infrastructure and IT expenses. Identify and document current infrastructure, applications, relationship, and dependencies including drift from the expected business required state. Key to data collection for the VMware onpremise or collocated platform is to a extraction tool such as RVtools .
 
