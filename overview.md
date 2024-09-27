@@ -18,6 +18,11 @@ keywords:
 
 Over the past two decades, many enterprises have developped the VMware Software Defined Data Center (SDDC) as the virtualization platform for hosting x86 production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
 
+In parallel with maintaining the production platform on-premise, and as a result of the Covid pandemic,  businesses have been requesting an acceleration of the digital transformation to a cloud native platform - in effect the compute platform has become the business with digital products generating the revenue.
+
+This whitepaper describes the solution considerations, migration approach to move the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using the lift-and-shift method with no change to the business applications.
+
+
 ### On-Premise Business Challenges
 
 Business challenges are leading clients to re-evaluate the x86 VMware virtualisation on-premises or co-located platform:
@@ -64,8 +69,6 @@ Moving business critical VMware workload environments to IBM Cloud VMware Soluti
 Figure 2 Generating return on investment with move to IBM Cloud VMware solutions.
 
 
-
-This whitepaper describes the solution considerations, migration approach to move the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using the lift-and-shift method with no change to the business applications.
 
 
 
