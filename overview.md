@@ -48,10 +48,15 @@ Business challenges are leading clients to re-evaluate the VMware x86 on-premise
 Moving business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
 
 -   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of business critical workloads.
+
 -   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.), access to VMware compute accelerators including smartNics, enabling higher virtual instance densification and higher CPU allocation to virtual servers. Scaling VMWare compute on IBM VMware offerings include capability for new capacity expansion within the hour.
+
 -   Opportunity to move VMware managed services and VMWare automation maintenance to IBM Cloud VMWare Cloud Foundation as a Service. A disaster recovery as a service (DRaaS) is optional add-on.
+
 -   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM Watsonx services GenAI, Inferencing and Machine Learning to fast-tract innovation into business processes.
--   Optimize Distributed Workload – in move to IBM Cloud there is further opportunity to optimize the x86 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM or Z.
+
+-   Optimize x86 Workloads – in move to IBM Cloud there is further opportunity to optimize the x86 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM or Z.
+
 -   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a better near-term ROI, which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
 
 ![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 2. A description that prints on the page" caption-side="bottom"}
