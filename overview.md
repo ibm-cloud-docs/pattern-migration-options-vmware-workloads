@@ -16,7 +16,7 @@ keywords:
 
 ## Introduction
 
-Over the past two decades, many enterprises have developped the VMware Software Defined Data Center (SDDC) as the x86 virtualization platform for hosting production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
+Over the past two decades, many enterprises have developped the VMware Software Defined Data Center (SDDC) as the virtualization platform for hosting x86 production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
 
 ### On-Premise Business Challenges
 
