@@ -20,7 +20,7 @@ Over the past two decades, many enterprises have developped the VMware Software 
 
 ### On-Premise Business Challenges
 
-Business challenges are leading clients to re-evaluate the VMware x86 on-premises or collocated platform:
+Business challenges are leading clients to re-evaluate the x86 VMware virtualisation on-premises or co-located platform:
 
 -   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. Broadcom introduced a new unified subscription based licensing model for VMware software. This new model resulted in businesses needing to fit their then perpetual VMware software licenses into one or both of two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation (VVF).
 
@@ -65,7 +65,7 @@ Figure 2 Generating return on investment with move to IBM Cloud VMware solutions
 
 
 
-This whitepaper describes the solution considerations, migration approach for a lift and shift of the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using lift-and-shift method with no change to the business applications.
+This whitepaper describes the solution considerations, migration approach to move the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using the lift-and-shift method with no change to the business applications.
 
 
 
