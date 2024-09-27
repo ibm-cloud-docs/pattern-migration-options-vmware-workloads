@@ -1,7 +1,7 @@
 ---
 copyright:
-  years: 2023
-lastupdated: "2024-09-24"
+  years: 2024
+lastupdated: "2024-09-27"
 
 subcollection: pattern-migration-options-vmware-workloads
 
