@@ -20,7 +20,7 @@ Over the past two decades, many enterprises have developed the VMware Software-D
 
 In parallel with maintaining the production platform on-premise, and as a result of the Covid pandemic,  businesses have been requesting an acceleration of the digital transformation to a cloud native platform - in effect the compute platform has become the business with digital products generating the revenue. The digital compute platform needs to be highly available, secure, scalable, with agile integration to the digital products user experience and feature set evolution.
 
-This whitepaper describes the business requirements, solution considerations, migration approach to move the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using the lift-and-shift method with no change to the business applications.
+This whitepaper describes the business requirements, solution considerations and migration approaches to move the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using the lift-and-shift method with no change to the business applications.
 
 
 ### On-Premise Business Challenges
@@ -52,21 +52,21 @@ Business challenges are leading clients to re-evaluate the x86 VMware virtualisa
 
 Moving business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
 
--   Enterprise-grade Cloud Infrastructure – leverage IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of business critical workloads.
+-   Enterprise-grade Cloud Infrastructure – leverages IBM Cloud robust and secure infrastructure designed to meet the stringent requirements of business critical workloads.
 
--   Flexibility – access to wide variety of hardware (chipsets) profiles including latest Intel Xeon processors (currently 4th Gen.), access to VMware compute accelerators including smartNics, enabling higher virtual instance densification and higher CPU allocation to virtual servers. Scaling VMWare compute on IBM VMware offerings include capability for new capacity expansion within the hour.
+-   Flexibility – access to wide variety of hardware (chipsets) profiles including the latest Intel Xeon processors (currently 4th Gen.), access to VMware compute accelerators including smartNics, enabling higher virtual instance densification and higher CPU allocation to virtual servers. Scaling VMWare compute on IBM VMware offerings include the capability for new capacity expansion within the hour.
 
 -   Opportunity to move VMware managed services and VMWare automation maintenance to IBM Cloud VMWare Cloud Foundation as a Service. A disaster recovery as a service (DRaaS) is optional add-on.
 
--   Advanced Cloud Services – access to latest GPUs such as Nvidia for AI client solutions along with IBM Watsonx services GenAI, Inferencing and Machine Learning to fast-tract innovation into business processes.
+-   Advanced Cloud Services – access to latest GPUs such as Nvidia and Intel for AI client solutions along with IBM Watsonx services GenAI, Inferencing and Machine Learning to fast-tract innovation into business processes.
 
--   Optimize x86 Workloads – in move to IBM Cloud there is further opportunity to optimize the x86 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM or Z.
+-   Optimize x86 Workloads – in moving to IBM Cloud there is further opportunity to optimize the x86 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM or Z.
 
--   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a better near-term ROI, which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
+-   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a better near-term Return on Investment (ROI), which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
 
-![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 2. A description that prints on the page" caption-side="bottom"}
+![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 1. Generating Return on Investment with IBM Cloud VMware Solutions" caption-side="bottom"}
 
-Figure 2 Generating return on investment with move to IBM Cloud VMware solutions.
+Figure 1 Generating return on investment with move to IBM Cloud VMware solutions.
 
 
 
