@@ -16,9 +16,9 @@ keywords:
 
 ## Introduction
 
-Over the past two decades, many enterprises have developed the VMware Software-Defined Data Center (SDDC) as the dominant virtualization platform for hosting x86 production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista and 79% of Enterprises across the globe runs VMware per IDC.
+Over the past two decades, many enterprises have developed the VMware Software-Defined Data Center (SDDC) as the dominant virtualization platform for hosting x86 production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista.
 
-In parallel with maintaining the production platform on-premise, and as a result of the Covid pandemic,  businesses have been requesting an acceleration of the digital transformation to a cloud native platform - in effect the compute platform has become the business with digital products generating the revenue. The digital compute platform needs to be highly available, secure, scalable, with agile integration to the digital products user experience and feature set evolution.
+In parallel with maintaining the production platform on-premise, and as a society outcome of the Global Covid pandemic, businesses have been requesting an acceleration of the digital transformation to a cloud native enterprise platform - in effect the compute platform has become the business, with hosted digital products generating the revenue. For the business, the digital compute platform needs to be highly available, secure, scalable, with agile integration to the digital products user experience and feature set evolution.
 
 This whitepaper describes the business requirements, solution considerations and migration approaches to move the on-premise x86 VMware virtualisation compute, storage and network to IBM Cloud VMware Solutions. The production workload environments (PROD, UAT, SIT, DEV), are moved to IBM Cloud VMware Solutions using the lift-and-shift method with no change to the business applications.
 
