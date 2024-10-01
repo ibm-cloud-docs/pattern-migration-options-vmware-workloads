@@ -5,16 +5,16 @@ lastupdated: "2024-10-01"
 
 subcollection: pattern-migration-options-vmware-workloads
 
-keywords:
+keywords: "VMware"
 ---
 
 {{site.data.keyword.attribute-definition-list}}
 
 # VMware Lift and Shift to IBM Cloud White Paper
-
-{: \#whitepaper}
+{: #whitepaper}
 
 ## Introduction
+{: #introduction}
 
 Over the past two decades, many enterprises have developed the VMware Software-Defined Data Center (SDDC) as the dominant virtualization platform for hosting x86 production and business critical workloads in on-premise or co-located Data Centre facilities. VMware has 44.8% market share in x86 virtualization platform technologies, per Statista.
 
@@ -24,6 +24,7 @@ This whitepaper describes the business requirements, solution considerations and
 
 
 ### On-Premise Business Challenges
+{: #onpremisebusinesschallenges}
 
 Business challenges are leading clients to re-evaluate the x86 VMware virtualisation on-premises or co-located platform:
 
@@ -49,6 +50,7 @@ Business challenges are leading clients to re-evaluate the x86 VMware virtualisa
 -   Maintaining VMware automation assets while developing Infrastructure as Code assets across hybrid cloud platform.
 
 ### IBM Cloud VMware Solution Business Benefits
+{: #ibmcloudbusinessbenefits}
 
 Moving business critical VMware workload environments to IBM Cloud VMware Solutions enables the following benefits:
 
@@ -70,8 +72,7 @@ Moving business critical VMware workload environments to IBM Cloud VMware Soluti
 
 
 ## Architecture Overview
-
-{: \#architecture}
+{: #architecture}
 
 The solution architecture proposes to retain the VMware platform, leveraging seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
 
@@ -79,12 +80,10 @@ The solution architecture proposes to retain the VMware platform, leveraging sea
 
 
 ## Compute Solutioning Considerations
-
-{: computesolutions}
+{: #computesolutions}
 
 ### Business Requirements
-
-{: \#businessrequirements}
+{: #businessrequirements}
 
 -   Provide low risk move to cloud of business critical on-premises VMware virtualized x86 application and management environments.
 -   Provide a migration capability to move environments using a lift-and-shift method from on-premises to Cloud without requiring application changes.
@@ -118,19 +117,17 @@ The following table summarizes the compute design considerations when solutionin
 ![Offering comparison](ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
 
 ### IBM Cloud VMware Solutions Decision Tree
-
-{: \#decisiontreevmware}
+{: #decisiontreevmware}
 
 ![Decision Tree](allinone-Decision.svg){: caption="Figure 4. IBM Cloud VMware Solutions Decision Tree" caption-side="bottom"}
 
 
 ## Storage Considerations
-
-{: \#storage-design}
+{: #storageconsiderations}
+Below storage requirements for lift-and-shift VMware from on-premise to IBM Cloud and storage design considerations.
 
 ### Storage Requirements
-
-{: \#storage-requirements}
+{: #storagerequirements}
 
 -   Replace the on-premises VMware storage solution.
 -   Optimize VMware storage operational expense (OpEx) and Capital expenditure (CapEx) costs.
@@ -148,6 +145,7 @@ The following table summarizes the compute design considerations when solutionin
 {: caption="Table 4. Storage considerations" caption-side="bottom"}
 
 ## Network Considerations
+{: #networkconsiderations}
 
 The following table summarizes the network design considerations when solutioning lift-and-shift VMware on-premise workloads to IBM Cloud VMware Solutions.
 
@@ -179,7 +177,8 @@ The following table summarizes the network design considerations when solutionin
 The following table summarizes the security design considerations when solutioning IBM Cloud VMware Solutions for lift-and-shift VMware on-premises Workload into IBM Cloud.
 
 ### Security Requirements
-{: #securityconsiderations}
+{: #securityrequirements}
+
 -   Adopt Zero trust security strategy
 -   Provide Single Sign On for Enterprise administrators to access IBM Cloud account and resources using the enterprise identity and password.
 -   Provide relevant industry compliant IBM Cloud VMware solution platform
@@ -221,7 +220,7 @@ Migration Phase4: Execution of workload (environment) migration. The duration of
 Operate (run) Phase5: Refers to tasks and processes to maintain the workload operational once the workload has been migrated to the target IBM Cloud VMware platform. Key processes include Backup, Observability (logging / monitoring) and maintaining compliance.
 
 ## Optimize x86 On-Premise into IBM Cloud
-{: #optimise}
+{: #optimisex86}
 
 Typically the on-premise VMWare x86 virtualization platform is associated to a ecosystem of compute platforms such as bare metal x86 Windows or Linux servers hosting standalone or clustered applications. The move to cloud assessment can bring out additional business requirements linked to the full x86 ecosystem and proposed as follows:
 
@@ -233,7 +232,7 @@ Optimize x86 business requirements
 -   Provide alternative CPU platform to x86 for large enterprise workloads such as SAP or Oracle.
 
 **Compute Considerations**
-{: #computer}
+{: #computeconsiderationsoptimize}
 
 | Compute Areas                                                                           | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
