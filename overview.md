@@ -58,7 +58,7 @@ Moving business critical VMware workload environments to IBM Cloud VMware Soluti
 
 -   Opportunity to move VMware managed services and VMWare automation maintenance to IBM Cloud VMWare Cloud Foundation as a Service. A disaster recovery as a service (DRaaS) is optional add-on.
 
--   Advanced Cloud Services – access to latest GPUs such as Nvidia and Intel for AI client solutions along with IBM Watsonx services GenAI, Inferencing and Machine Learning to fast-tract innovation into business processes.
+-   Advanced Cloud Services – access to latest GPUs such as Nvidia and Intel for AI client solutions along with IBM Watsonx services GenAI, Inferencing and Machine Learning to fast-tract innovation into business processes. Aditional performance benefits using latest Intel Saphire Rapids accelerator feature are possible for vSAN storage configured with Express Storage Architecture (ESA) using the CPU offloading capability.
 
 -   Optimize x86 Workloads – in moving to IBM Cloud there is further opportunity to optimize the x86 workload to alternative IBM cloud enabled virtualization platforms such as KVM, Xen, PowerVM or LinuxOne on Z platform.
 
