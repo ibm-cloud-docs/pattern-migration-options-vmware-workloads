@@ -94,8 +94,7 @@ The solution architecture proposes to retain the VMware platform, leveraging sea
 -   Optimise VMware operational and capital expenditure costs.
 
 ### Compute Considerations
-
-{: \#computeconsiderations}
+{: #computeconsiderations}
 
 The following table summarizes the compute design considerations when solutioning lift-and-shift VMware on-premise workloads to IBM Cloud VMware Solutions.
 
@@ -111,8 +110,7 @@ The following table summarizes the compute design considerations when solutionin
 
 
 ### IBM Cloud VMWare Solutions Offering Comparison Chart
-
-{: \#ibmcloudvmwareoffering}
+{: #ibmcloudvmwareoffering}
 
 ![Offering comparison](ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
 
@@ -122,7 +120,7 @@ The following table summarizes the compute design considerations when solutionin
 ![Decision Tree](allinone-Decision.svg){: caption="Figure 4. IBM Cloud VMware Solutions Decision Tree" caption-side="bottom"}
 
 
-## Storage Considerations
+## Storage Considerations  \n
 {: #storageconsiderations}
 Below storage requirements for lift-and-shift VMware from on-premise to IBM Cloud and storage design considerations.
 
@@ -136,6 +134,7 @@ Below storage requirements for lift-and-shift VMware from on-premise to IBM Clou
 -   Provide secure automated backup service.
 
 ### Storage Design Considerations
+{: #storagedesignconsiderations}
 
 | Storage Areas                                                       | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -150,6 +149,7 @@ Below storage requirements for lift-and-shift VMware from on-premise to IBM Clou
 The following table summarizes the network design considerations when solutioning lift-and-shift VMware on-premise workloads to IBM Cloud VMware Solutions.
 
 ### Network Requirements
+{: #networkrequirements}
 
 -   Provide secure access to Web applications from internet
 -   For Business critical workloads deliver 99.99% Availability and RPO near zero.
@@ -162,6 +162,7 @@ The following table summarizes the network design considerations when solutionin
 -   Provide integration with on-premise Microsoft Active Directory
 
 ### Design Considerations
+{: designconsiderations}
 
 | Network Areas                                                                                              | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 |------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -173,6 +174,7 @@ The following table summarizes the network design considerations when solutionin
 {: caption="Table 1: Compute areas"}
 
 ## Security Considerations
+{: #securityconsiderations}
 
 The following table summarizes the security design considerations when solutioning IBM Cloud VMware Solutions for lift-and-shift VMware on-premises Workload into IBM Cloud.
 
