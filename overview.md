@@ -254,4 +254,4 @@ Optimize x86 decision tree in move to IBM Cloud
 
 [Getting Started with IBM Cloud VMware Solutions]/docs/vmwaresolutions?topic=vmwaresolutions-getting-started)
 
-[VMWare vSAN 8 Express Storage Architecture]https://core.vmware.com/resource/vmware-vsan-technology-overview#sec10661-sub3 {: external}
+[VMWare vSAN Express Storage Architecture]https://core.vmware.com/resource/vmware-vsan-technology-overview#sec10661-sub3 {: external}
