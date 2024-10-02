@@ -11,11 +11,11 @@ toc:
     authors:
     - name: David Long
       title: IBM Cloud Technical Solution Architect
-      image: davidlong.jpg
+      image: images/davidlong.jpg
       url: https://www.linkedin.com/in/davidpierrelong
     - name: Chuck Janczy
       title: IBM Cloud Technical Solution Architect
-      image: chuckjanczy.jpg
+      image: images/chuckjanczy.jpg
       url: https://www.linkedin.com/in/cjanczy/
     navigation: hidden
     href: /docs/pattern-migration-options-vmware-workloads
