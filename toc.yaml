@@ -8,6 +8,11 @@ toc:
     use-case: Public cloud
     audience: solution
     content-type: white-paper
+    authors:
+    - name: David Long
+      title: IBM Complex Cloud Architect
+      image: davidlong.jpg
+      url: https://www.linkedin.com/in/davidpierrelong
     navigation: hidden
     href: /docs/pattern-migration-options-vmware-workloads
     path: pattern-migration-options-vmware-workloads
