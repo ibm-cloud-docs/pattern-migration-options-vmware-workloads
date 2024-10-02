@@ -30,11 +30,11 @@ Business challenges are leading clients to re-evaluate the x86 VMware virtualisa
 
 -   Licensing cost increases for VMware virtualization: Businesses are looking to minimize the impact of VMware Cloud Foundation (VCF) bundled pricing changes effective 1 May 2024 and mitigate potential future VCF subscription cost increases. As part of their aquisition of VMware, Broadcom introduced a new unified subscription based licensing model for VMware software. This new model resulted in businesses needing to change their then perpetual VMware software licenses into two bundles: VMware Cloud Foundation (VCF) or VMware vSphere Foundation Essential (VVF).
 
--   High operational costs to maintain on-premise or colocation datacenter facility:  Significant operating expenditure (OpEx) is incurred to maintain compliance and security of the VMware infratructure ressources across the x86 bare metal servers, storage and network devices. OpEx costs include:  \n
+-   High operational costs to maintain on-premise or colocation datacenter facility:  Significant operating expenditure (OpEx) is incurred to maintain compliance and security of the VMware infratructure ressources across the x86 bare metal servers, storage and network devices. OpEx costs include:
     -   Managing costly regulatory, industry certifications and audits.
     -   Time consuming server and VMware VCF component security patching updates
 
--   High Capital Expenditure (CapEx) costs to grow or adapt the on-premise facility to adapt to business requirements include:  \n
+-   High Capital Expenditure (CapEx) costs to grow or adapt the on-premise facility to adapt to business requirements include:
     -   Slow (multi-week) new VMware ESXi server provisioning for new capacity requirements
     -   Slow increased server memory (RAM) or additional storage request execution
     -   Shorter server refresh cycles to avoid costly extended warranties
