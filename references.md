@@ -11,9 +11,9 @@ keywords:
 
 {{site.data.keyword.attribute-definition-list}}
 
-# References
+#References
 
-{: \#references}
+{: #references}
 
 [IBM Cloud VMware Solutions](https://cloud.ibm.com/docs/vmwaresolutions)
 
