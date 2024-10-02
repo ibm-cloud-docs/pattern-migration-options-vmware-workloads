@@ -10,7 +10,7 @@ keywords: "VMware"
 
 {{site.data.keyword.attribute-definition-list}}
 
-# VMware Lift and Shift to IBM Cloud White Paper
+# Lift-and-Shift VMware On-Premise to IBM Cloud
 {: #whitepaper}
 
 ## Introduction
