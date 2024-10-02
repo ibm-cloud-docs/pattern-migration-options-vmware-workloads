@@ -66,7 +66,7 @@ Moving business critical VMware workload environments to IBM Cloud VMware Soluti
 
 -   Cost savings – avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom / VMware VCF subscription. VMware Cloud Foundation on IBM Cloud allows businesses to address Broadcom Licensing immediately and generate a better near-term Return on Investment (ROI), which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
 
-![Pattern overview.](ibmcloudvcfroi.svg){: caption="Figure 1. Generating Return on Investment with IBM Cloud VMware Solutions" caption-side="bottom"}
+![Pattern overview.](images/ibmcloudvcfroi.svg){: caption="Figure 1. Generating Return on Investment with IBM Cloud VMware Solutions" caption-side="bottom"}
 
 
 
@@ -76,7 +76,7 @@ Moving business critical VMware workload environments to IBM Cloud VMware Soluti
 
 The solution architecture proposes to retain the VMware platform, leveraging seamless migration standard tools (such as VMware HCX) to lift and shift the hosted business workloads (no application changes) into IBM Cloud VMware Solutions.
 
-![Pattern overview.](Overview.svg){: caption="Figure 2. Lift-and-Shift VMware workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
+![Pattern overview.](images/overview.svg){: caption="Figure 2. Lift-and-Shift VMware workloads to IBM Cloud VMware Solutions." caption-side="bottom"}
 
 
 ## Compute Solutioning Considerations
@@ -112,12 +112,12 @@ The following table summarizes the compute design considerations when solutionin
 ### IBM Cloud VMWare Solutions Offering Comparison Chart
 {: #ibmcloudvmwareoffering}
 
-![Offering comparison](ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
+![Offering comparison](images/ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
 
 ### IBM Cloud VMware Solutions Decision Tree
 {: #decisiontreevmware}
 
-![Decision Tree](allinone-Decision.svg){: caption="Figure 4. IBM Cloud VMware Solutions Decision Tree" caption-side="bottom"}
+![Decision Tree](images/allinone-Decision.svg){: caption="Figure 4. IBM Cloud VMware Solutions Decision Tree" caption-side="bottom"}
 
 
 ## Storage Considerations
@@ -213,7 +213,7 @@ Discovery Phase1: Data is collected across technical, sales and business teams t
 
 Assessment Phase2: Data collected in the discovery phase is used to assess the migration to Cloud viability and choosing the right target platform solution. Prioritise the Lift and Shift migration of the VMWare SDDC to IBM Cloud VMware VCF so that current VMware ISV support, VMWare processes and automation is maintained. Avoid adding re-packaging (applications) or re-factor (to microservices) patterns to decouple the modernize from move to IBM Cloud program. Assess the supply-chain of workload validating utilisation and usage of VMware components. Right-size the target VCF landing zones consolidating VMware clusters making use of higher core density servers. Assess software supply chain and Data for the required encryption level and business key integration. The outcome of the assessment phase is a high-level architecture of the cloud environments with associated bill of materials.
 
-Move to IBM Cloud Phased Approach ![Pattern overview.](migrationpicture.svg){: caption="Figure 5. Move to IBM Cloud Phased Approach" caption-side="bottom"}
+Move to IBM Cloud Phased Approach ![Pattern overview.](images/migrationpicture.svg){: caption="Figure 5. Move to IBM Cloud Phased Approach" caption-side="bottom"}
 
 Minimum Viable Product (MVP) Phase3: Provides the confidence in the viability of the proposed solution. It is important to clearly define and articulate upfront the success criteria of the MVP as well as to identify the approving stakeholder(s). The successful MVP will build trust and confidence in the solution and provide the go ahead for the migration of the production workload. The MVP familiarise the operating team with the Cloud platform and guides towards a smooth adoption (transition).
 
@@ -246,7 +246,7 @@ Optimize x86 business requirements
 
 Optimize x86 decision tree in move to IBM Cloud
 
-![Decision Tree](allinone-Decision-optimize.svg){: caption="Figure 6. Optimize x86 IBM Cloud Decision Tree" caption-side="bottom"}
+![Decision Tree](images/allinonedecisionoptimize.svg){: caption="Figure 6. Optimize x86 IBM Cloud Decision Tree" caption-side="bottom"}
 
 
 ## References
