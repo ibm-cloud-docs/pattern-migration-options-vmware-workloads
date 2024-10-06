@@ -60,6 +60,9 @@ Moving business critical VMware workload environments to {{site.data.keyword.vmw
 
 ![Generating Return on Investment](images/ibmcloudvcfroi.svg){: caption="Figure 1. Generating Return on Investment with IBM Cloud VMware Solutions" caption-side="bottom"}
 
+IBM Cloud is the first VMware partner to offer an automated and full featured VMware Cloud Foundation as a service uniquely providing complete entitlement and control. Enterprises can take advantage of thousands of customizable options, built-in security and controls, bring familiar best-of-breed tools from VMWare ecosystem and get up to 201% return on investment over three years with IBM Cloud.
+Return on investment is based on Forrester Total Impact study (https://www.ibm.com/downloads/cas/6M1QN5VO) commissioned by IBM.
+
 ## Architecture overview
 {: #architecture}
 
