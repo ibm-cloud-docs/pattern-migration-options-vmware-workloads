@@ -1,6 +1,7 @@
 ---
 copyright:
   years: 2024
+lastupdated: "2024-10-06"
 lastupdated: "2024-10-04"
 
 subcollection: pattern-migration-options-vmware-workloads
@@ -10,7 +11,7 @@ keywords: "VMware"
 
 {{site.data.keyword.attribute-definition-list}}
 
-# Lift and shift VMware on-premises to IBM Cloud
+# Lift-and-Shift VMware On-Premises to IBM Cloud
 {: #whitepaper}
 
 Over the past two decades, many enterprises have developed the VMware Software-Defined Data Center (SDDC) as the dominant virtualization platform for hosting x86 production and business-critical workloads in on-premises or colocated Data Center facilities. VMware has a 44.8% market share in x86 virtualization platform technologies, per Statista.
@@ -80,7 +81,7 @@ The solution architecture proposes to retain the VMware platform, by using seaml
 - For business-critical workloads on VMWare, deliver 99.99% availability and RPO near zero.
 - Optimize VMware operational and capital expenditure costs.
 
-### Compute solutioning considerations 
+### Compute solutioning considerations
 {: #computeconsiderations}
 
 The following table summarizes the compute design considerations when solutioning lift and shift VMware on-premises workloads to {{site.data.keyword.vmwaresolutions_full_notm}}.
