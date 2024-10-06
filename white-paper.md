@@ -56,6 +56,8 @@ Moving business critical VMware workload environments to {{site.data.keyword.vmw
 
 - Cost savings: Avoid unnecessary expenses associated with re-purchasing licenses for new infrastructure when adopting the new Broadcom and {{site.data.keyword.vmwaresolutions_full_notm}} subscription. {{site.data.keyword.vmwaresolutions_full_notm}} allows businesses to address Broadcom Licensing immediately and generate a better near-term Return on Investment ROI, which can then be redirected towards future re-hosting, re-platforming or application modernization to microservices initiatives.
 
+
+
 ![Generating Return on Investment](images/ibmcloudvcfroi.svg){: caption="Figure 1. Generating Return on Investment with IBM Cloud VMware Solutions" caption-side="bottom"}
 
 ## Architecture overview
@@ -99,10 +101,14 @@ The following table summarizes the compute design considerations when solutionin
 ### IBM Cloud VMWare Solutions offering comparison chart
 {: #ibmcloudvmwareoffering}
 
+The table below decribes the five flavors of IBM VMWare Solutions either as customer self-managed VCF or IBM managed VCF as a service.
+
 ![Offering comparison](images/ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
 
 ### IBM Cloud VMware Solutions decision tree
 {: #decisiontreevmware}
+
+The decision tree below proposes a prescriptive choice of IBM Cloud VMware Solutions based on the environment.
 
 ![Decision Tree](images/allinone-Decision.svg){: caption="Figure 4. IBM Cloud VMware Solutions Decision Tree" caption-side="bottom"}
 
