@@ -139,11 +139,11 @@ The following table summarizes the network design requirements and consideration
 ### Network requirements
 {: #networkrequirements}
 
--   Provide secure access to Web applications from internet
--   For Business critical workloads deliver 99.99% Availability and RPO near zero.
--   Provide secure connectivity between customer remaining On-premise and VMware Cloud Foundation on IBM Cloud
--   Provide global load balancer capability for Web applications
--   For regulated and business critical workloads provide DMZ
+- Provide secure access to Web applications from internet
+- For Business critical workloads deliver 99.99% Availability and RPO near zero.
+- Provide secure connectivity between customer remaining On-premise and VMware Cloud Foundation on IBM Cloud
+- Provide global load balancer capability for Web applications
+- For regulated and business critical workloads provide DMZ
 - **Optional**: Provide integration with on-premises Microsoft Active Directory.
 
 ### Design considerations
@@ -210,10 +210,10 @@ Typically the on-premise VMWare x86 virtualization platform is associated to a e
 
 Optimize x86 business requirements
 
--   Provide Cloud native virtual instances deployable through Continuous Integration Continuous Delivery (CI/CD) and declarative language scripts such as Terraform.
--   Enable AI inferencing in production business processes. Provide encoder decoder capabilities for developing GenAI business process innovation.
--   Provide cost efficient, flexible and scalable, mission and business critical Kubernetes platform for modernized container cloud native applications.
--   Provide alternative CPU platform to x86 for large enterprise workloads such as SAP or Oracle.
+- Provide Cloud native virtual instances deployable through Continuous Integration Continuous Delivery (CI/CD) and declarative language scripts such as Terraform.
+- Enable AI inferencing in production business processes. Provide encoder decoder capabilities for developing GenAI business process innovation.
+- Provide cost efficient, flexible and scalable, mission and business critical Kubernetes platform for modernized container cloud native applications.
+- Provide alternative CPU platform to x86 for large enterprise workloads such as SAP or Oracle.
 
 **Compute Considerations**
 {: #computeconsiderationsoptimize}
