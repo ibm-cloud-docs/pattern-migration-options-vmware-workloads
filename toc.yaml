@@ -17,6 +17,9 @@ toc:
       title: IBM Cloud Technical Solution Architect
       image: images/chuckjanczy.jpg
       url: https://www.linkedin.com/in/cjanczy/
+    - name: Bertrand-David Cleret
+      image: images/bertranddavidcleret.jpg
+      url: https://www.linkedin.com/in/bdcleret/
     navigation: hidden
     href: /docs/pattern-migration-options-vmware-workloads
     path: pattern-migration-options-vmware-workloads
