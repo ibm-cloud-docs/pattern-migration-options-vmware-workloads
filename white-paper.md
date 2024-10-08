@@ -99,7 +99,7 @@ The following table summarizes the compute design considerations when solutionin
 ### IBM Cloud VMWare Solutions offering comparison chart
 {: #ibmcloudvmwareoffering}
 
-The following table describes the five flavors of IBM VMWare Solutions either as customer self-managed VCF or IBM managed {{site.data.keyword.vmware-service_short}}.
+The following table describes the five flavors of IBM VMWare Solutions either as customer self-managed VMware Cloud Foundation or IBM managed {{site.data.keyword.vmware-service_short}}.
 
 ![Offering comparison](images/ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
 
@@ -113,7 +113,7 @@ The decision tree proposes a prescriptive choice of {{site.data.keyword.vmwareso
 ## Storage considerations
 {: #storageconsiderations}
 
-Review the storage requirements and considerations for lift and shift VMware from on-premises to {{site.data.keyword.Bluemix_notm}} and storage design considerations.
+The following table summarizes the storage design requirements and considerations when solutioning lift-and-shift VMware on-premise workloads to {{site.data.keyword.Bluemix_notm}} VMware Solutions.
 
 ### Storage requirements
 {: #storagerequirements}
