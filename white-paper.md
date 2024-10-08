@@ -57,7 +57,7 @@ Moving business critical VMware workload environments to {{site.data.keyword.vmw
 
 ![Generating Return on Investment](images/ibmcloudvcfroi.svg){: caption="Figure 1. Generating Return on Investment with IBM Cloud VMware Solutions" caption-side="bottom"}
 
-{{site.data.keyword.Bluemix_notm}} is the first VMware partner to offer an automated and full featured {{site.data.keyword.vmware-service_short}} uniquely providing complete entitlement and control. Enterprises can take advantage of thousands of customizable options, built-in security and controls, bring familiar best-of-breed tools from VMWare ecosystem, and get up to 201% return on investment over three years with {{site.data.keyword.Bluemix_notm}}. The ROI is based on the [Forrester Total Impact study that is commissioned by IBM.
+{{site.data.keyword.Bluemix_notm}} is the first VMware partner to offer an automated and full featured {{site.data.keyword.vmware-service_short}} uniquely providing complete entitlement and control. Enterprises can take advantage of thousands of customizable options, built-in security and controls, bring familiar best-of-breed tools from VMWare ecosystem, and get up to 201% return on investment over three years with {{site.data.keyword.Bluemix_notm}}. The ROI is based on the [Forrester Total Impact study](https://www.ibm.com/downloads/cas/6M1QN5VO){: external} that is commissioned by IBM.
 
 ## Architecture overview
 {: #architecture}
@@ -101,7 +101,14 @@ The following table summarizes the compute design considerations when solutionin
 
 The following table describes the five flavors of IBM VMware Solutions either as customer self-managed VMware Cloud Foundation or IBM managed {{site.data.keyword.vmware-service_short}}. For more information, see [IBM Cloud VMware Cloud Foundation as a Service](/docs/overview?topic=vmwaresolutions-vmware-aas-overview).
 
-![Offering comparison](images/ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
+![Offering comparison](images/ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware offerings comparison table" caption-side="bottom"}
+
+For more information about the available VMware offerings, review the following: 
+
+* [IBM Cloud VMware Cloud Foundation as a Service](/docs/overview?topic=vmwaresolutions-vmware-aas-overview)
+* [IBM Cloud VMware Cloud Foundation for VPC](/docs/overview?topic=vmwaresolutions-vpc-vcf-ovw)
+* [IBM Cloud VMware Cloud Foundation for Classic - Automated](/docs/overview?topic=vmwaresolutions-vc_vcenterserveroverview)
+* [IBM Cloud VMware Cloud Foundation for Classic - Flexible](/docs/overview?topic=vmwaresolutions-vs_planning)
 
 ### IBM Cloud VMware Solutions decision tree
 {: #decisiontreevmware}
