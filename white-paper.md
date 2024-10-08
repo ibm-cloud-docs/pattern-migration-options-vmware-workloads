@@ -104,7 +104,9 @@ The following table describes the five flavors of IBM VMWare Solutions either as
 ![Offering comparison](images/ibmcloudvmwareofferings.svg){: caption="Figure 3. IBM Cloud VMware Offerings comparison table" caption-side="bottom"}
 
 **References**
-[IBM Cloud VMware as a Service](/docs/overview?topic=vmwaresolutions-vmware-aas-overview)
+
+[IBM Cloud VMware Cloud Foundation as a Service](/docs/overview?topic=vmwaresolutions-vmware-aas-overview)
+
 
 ### IBM Cloud VMware Solutions decision tree
 {: #decisiontreevmware}
