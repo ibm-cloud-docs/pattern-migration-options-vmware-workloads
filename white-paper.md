@@ -115,7 +115,7 @@ For more information about the available VMware offerings, review the following:
 
 The decision tree proposes a prescriptive choice of {{site.data.keyword.vmwaresolutions_full_notm}} based on the environment.
 
-![Decision Tree](images/allinone-Decision.svg){: caption="Figure 4. IBM Cloud VMware Solutions Decision Tree" caption-side="bottom"}
+![Decision Tree](images/ibmcloudvmwaredecision.svg){: caption="Figure 4. IBM Cloud VMware Solutions Decision Tree" caption-side="bottom"}
 
 ## Storage considerations
 {: #storageconsiderations}
@@ -149,11 +149,11 @@ The following table summarizes the network design requirements and consideration
 ### Network requirements
 {: #networkrequirements}
 
-- Provide secure access to web applications from internet
+- Provide secure access to web applications from internet.
 - For Business critical workloads, deliver 99.99% Availability and RPO near zero.
-- Provide secure connectivity between customer remaining on-premises and VMware Cloud Foundation on IBM Cloud
-- Provide global load balancer capability for Web applications
-- For regulated and business critical workloads, provide DMZ
+- Provide secure connectivity between customer remaining on-premises and VMware Cloud Foundation on IBM Cloud.
+- Provide global load balancer capability for Web applications.
+- For regulated and business critical workloads, provide DMZ.
 - **Optional**: Provide integration with on-premises Microsoft Active Directory.
 
 ### Design considerations
