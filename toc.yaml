@@ -1,0 +1,32 @@
+#  Name your file `toc.yaml`
+#  Make sure you include all nav file coding requirements
+#  Anything with a fully qualified URL with `http` or `https` will get an external link icon added to the nav entry
+---
+toc:
+  properties:
+    subcollection: pattern-migration-options-vmware-workloads
+    use-case: Public cloud
+    audience: solution
+    content-type: white-paper
+    authors:
+    - name: David Long
+      title: IBM Cloud Technical Solution Architect
+      image: images/davidlong.jpg
+      url: https://www.linkedin.com/in/davidpierrelong
+    - name: Chuck Janczy
+      title: IBM Cloud Technical Solution Architect
+      image: images/chuckjanczy.jpg
+      url: https://www.linkedin.com/in/cjanczy/
+    - name: Bertrand-David Cleret
+      image: images/bertranddavidcleret.jpg
+      url: https://www.linkedin.com/in/bdcleret/
+    navigation: hidden
+    href: /docs/pattern-migration-options-vmware-workloads
+    path: pattern-migration-options-vmware-workloads
+    description: Lift and shift of VMware workloads on IBM Cloud VMware
+    label: Lift and shift of VMware workloads on IBM Cloud VMware
+  entries:
+  - navgroup:
+      id: reference
+      topics:
+      - white-paper.md
