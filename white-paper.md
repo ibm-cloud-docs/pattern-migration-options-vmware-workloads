@@ -13,6 +13,9 @@ keywords: "VMware"
 # Lift and shift VMware on-premises to {{site.data.keyword.Bluemix}}
 {: #whitepaper}
 
+**End of Marketing**: As of 31 October 2025, new deployments of VMware Solutions offerings are no longer available for new customers. Existing customers can still use and expand their active VMware® workloads on {{site.data.keyword.cloud}}. For more information, see [End of Marketing for VMware on {{site.data.keyword.cloud_notm}}](/docs/vmwaresolutions?topic=vmwaresolutions-eos-vms).
+{: note}
+
 Over the past two decades, many enterprises have developed the VMware Software-Defined Data Center (SDDC) as the dominant virtualization platform for hosting x86 production and business critical workloads in on-premises or colocated data center facilities. VMware has a 44.8% market share in x86 virtualization platform technologies, per Statista.
 
 In parallel with maintaining the production platform on-premises, and as a society outcome of the global pandemic, businesses are requesting an acceleration of the digital transformation to a cloud native enterprise platform - in effect, a recognition that the compute platform became the business, with hosted digital products generating the revenue. For the business, the digital compute platform needs to be trusted, highly available, secure, scalable, with agile integration to the digital products user experience and feature set evolution.
